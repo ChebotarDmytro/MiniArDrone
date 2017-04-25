@@ -1,0 +1,962 @@
+
+As-needed library included to satisfy reference by file (symbol)
+
+libarsal.so                   /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o (ARSAL_Socket_Create)
+libarnetworkal.so             /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o (ARNETWORKAL_Manager_Unlock)
+libjson.so                    /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o (json_tokener_parse)
+libavahi-common.so.3          /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o (avahi_alternative_service_name)
+libavahi-client.so.3          /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o (avahi_service_resolver_new)
+libpthread.so.0               /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o (write@@GLIBC_2.2.5)
+libc.so.6                     /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o (strncmp@@GLIBC_2.2.5)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/crtbeginS.o
+ .text.unlikely
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/crtbeginS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/crtbeginS.o
+ .text          0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+ .data          0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+ .bss           0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+ .text.unlikely.ARDISCOVERY_Connection_RxPending
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+ .text.unlikely.ARDISCOVERY_Connection_TxPending
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+ .text.unlikely.ARDISCOVERY_Connection_CreateSocket
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+ .text.unlikely.ARDISCOVERY_Connection_ControllerInitSocket
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+ .text.unlikely.ARDISCOVERY_Connection_Delete
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+ .text.unlikely.ARDISCOVERY_Connection_New
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+ .text.unlikely.ARDISCOVERY_Connection_DeviceListeningLoop
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+ .text.unlikely.ARDISCOVERY_Connection_Device_StopListening
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+ .text.unlikely.ARDISCOVERY_Connection_ControllerConnection
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+ .text.unlikely.ARDISCOVERY_Connection_getControllerIP
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+ .text          0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+ .data          0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+ .bss           0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+ .text.unlikely.ARDISCOVERY_getProductService
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+ .text.unlikely.ARDISCOVERY_getProductID
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+ .text.unlikely.ARDISCOVERY_getProductName
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+ .text.unlikely.ARDISCOVERY_getProductPathName
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+ .text.unlikely.ARDISCOVERY_getProductFromName
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+ .text.unlikely.ARDISCOVERY_getProductFromPathName
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+ .text.unlikely.ARDISCOVERY_getProductFromProductID
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+ .text.unlikely.ARDISCOVERY_getProductFamily
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+ .text          0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+ .data          0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+ .bss           0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+ .text.unlikely.ARDISCOVERY_Device_Delete
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+ .text.unlikely.ARDISCOVERY_Device_New
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+ .text.unlikely.ARDISCOVERY_Device_NewByCopy
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+ .text.unlikely.ARDISCOVERY_Device_NewARNetworkAL
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+ .text.unlikely.ARDISCOVERY_Device_DeleteARNetworkAL
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+ .text.unlikely.ARDISCOVERY_Device_InitNetworkConfiguration
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+ .text.unlikely.ARDISCOVERY_Device_InitWifi
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+ .text.unlikely.ARDISCOVERY_Device_WifiAddConnectionCallbacks
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+ .text.unlikely.ARDISCOVERY_DEVICE_WifiGetIpAddress
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+ .text.unlikely.ARDISCOVERY_Device_InitBLE
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+ .text          0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+ .bss           0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+ .text.unlikely.ARDISCOVERY_DEVICE_Wifi_SendJsonCallback
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+ .text.unlikely.ARDISCOVERY_DEVICE_Wifi_ReceiveJsonCallback
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+ .text.unlikely.ARDISCOVERY_DEVICE_Wifi_DeleteSpecificParameters
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+ .text.unlikely.ARDISCOVERY_DEVICE_Wifi_CreateSpecificParameters
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+ .text.unlikely.ARDISCOVERY_DEVICE_Wifi_GetCopyOfSpecificParameters
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+ .text.unlikely.ARDISCOVERY_DEVICE_Wifi_AddConnectionCallbacks
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+ .text.unlikely.ARDISCOVERY_DEVICE_Wifi_DeleteARNetworkAL
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+ .text.unlikely.ARDISCOVERY_DEVICE_Wifi_GetIpAddress
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+ .text.unlikely.ARDISCOVERY_DEVICE_Wifi_InitBebopNetworkConfiguration
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+ .text.unlikely.ARDISCOVERY_DEVICE_Wifi_InitSkyControllerNetworkConfiguration
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+ .text.unlikely.ARDISCOVERY_DEVICE_Wifi_InitBebop2NetworkConfiguration
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+ .text.unlikely.ARDISCOVERY_DEVICE_Wifi_InitJumpingSumoNetworkConfiguration
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+ .text.unlikely.ARDISCOVERY_DEVICE_Wifi_InitUnknown_Product_1NetworkConfiguration
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+ .text.unlikely.ARDISCOVERY_DEVICE_Wifi_InitEvinrudeNetworkConfiguration
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+ .text.unlikely.ARDISCOVERY_DEVICE_Wifi_DiscoveryConnect
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+ .text.unlikely.ARDISCOVERY_DEVICE_Wifi_NewARNetworkAL
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+ .text          0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/BLE/ARDISCOVERY_DEVICE_Ble.c.o
+ .bss           0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/BLE/ARDISCOVERY_DEVICE_Ble.c.o
+ .text.unlikely.ARDISCOVERY_DEVICE_Ble_DeleteSpecificParameters
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/BLE/ARDISCOVERY_DEVICE_Ble.c.o
+ .text.unlikely.ARDISCOVERY_DEVICE_Ble_CreateSpecificParameters
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/BLE/ARDISCOVERY_DEVICE_Ble.c.o
+ .text.unlikely.ARDISCOVERY_DEVICE_Ble_GetCopyOfSpecificParameters
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/BLE/ARDISCOVERY_DEVICE_Ble.c.o
+ .text.unlikely.ARDISCOVERY_DEVICE_Ble_DeleteARNetworkAL
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/BLE/ARDISCOVERY_DEVICE_Ble.c.o
+ .text.unlikely.ARDISCOVERY_DEVICE_Ble_NewARNetworkAL
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/BLE/ARDISCOVERY_DEVICE_Ble.c.o
+ .text.unlikely.ARDISCOVERY_DEVICE_Ble_InitRollingSpiderNetworkConfiguration
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/BLE/ARDISCOVERY_DEVICE_Ble.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/BLE/ARDISCOVERY_DEVICE_Ble.c.o
+ .text          0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/gen/Sources/ARDISCOVERY_Error.c.o
+ .data          0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/gen/Sources/ARDISCOVERY_Error.c.o
+ .bss           0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/gen/Sources/ARDISCOVERY_Error.c.o
+ .text.unlikely.ARDISCOVERY_Error_ToString
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/gen/Sources/ARDISCOVERY_Error.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/gen/Sources/ARDISCOVERY_Error.c.o
+ .text          0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+ .data          0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+ .bss           0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+ .text.unlikely.ARDISCOVERY_AvahiDiscovery_CreateService
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+ .text.unlikely.ARDISCOVERY_AvahiDiscovery_EntryGroupCb
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+ .text.unlikely.ARDISCOVERY_AvahiDiscovery_Publisher_ClientCb
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+ .text.unlikely.ARDISCOVERY_AvahiDiscovery_Browser_BrowseCb
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+ .text.unlikely.ARDISCOVERY_AvahiDiscovery_Browser_ResolveCb
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+ .text.unlikely.ARDISCOVERY_AvahiDiscovery_Browser_ClientCb
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+ .text.unlikely.ARDISCOVERY_AvahiDiscovery_ResetService
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+ .text.unlikely.ARDISCOVERY_AvahiDiscovery_Publish
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+ .text.unlikely.ARDISCOVERY_AvahiDiscovery_StopPublishing
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+ .text.unlikely.ARDISCOVERY_AvahiDiscovery_Publisher_Delete
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+ .text.unlikely.ARDISCOVERY_AvahiDiscovery_Publisher_New
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+ .text.unlikely.ARDISCOVERY_AvahiDiscovery_Browse
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+ .text.unlikely.ARDISCOVERY_AvahiDiscovery_StopBrowsing
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+ .text.unlikely.ARDISCOVERY_AvahiDiscovery_Browser_Delete
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+ .text.unlikely.ARDISCOVERY_AvahiDiscovery_Browser_New
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/crtendS.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/crtendS.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/crtendS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/crtendS.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/5/crtbeginS.o
+LOAD /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+LOAD /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+LOAD /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+LOAD /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+LOAD /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/BLE/ARDISCOVERY_DEVICE_Ble.c.o
+LOAD /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/gen/Sources/ARDISCOVERY_Error.c.o
+LOAD /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+LOAD /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/staging/usr/lib/libarsal.so
+LOAD /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/staging/usr/lib/libarnetwork.so
+LOAD /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/staging/usr/lib/libarnetworkal.so
+LOAD /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/staging/usr/lib/libjson.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/libavahi-common.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/libavahi-client.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/librt.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/5/libstdc++.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/libm.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libm.so.6
+LOAD /usr/lib/x86_64-linux-gnu/libmvec_nonshared.a
+LOAD /lib/x86_64-linux-gnu/libmvec.so.1
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/5/libgcc_s.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/libpthread.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libpthread.so.0
+LOAD /usr/lib/x86_64-linux-gnu/libpthread_nonshared.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/libc.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libc.so.6
+LOAD /usr/lib/x86_64-linux-gnu/libc_nonshared.a
+LOAD /lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/5/libgcc_s.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/5/crtendS.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
+                0x00000000000001c8                . = (0x0 + SIZEOF_HEADERS)
+
+.note.gnu.build-id
+                0x00000000000001c8       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x00000000000001c8       0x24 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+
+.hash
+ *(.hash)
+
+.gnu.hash       0x00000000000001f0      0x1cc
+ *(.gnu.hash)
+ .gnu.hash      0x00000000000001f0      0x1cc /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+
+.dynsym         0x00000000000003c0      0xdf8
+ *(.dynsym)
+ .dynsym        0x00000000000003c0      0xdf8 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+
+.dynstr         0x00000000000011b8      0xfd5
+ *(.dynstr)
+ .dynstr        0x00000000000011b8      0xfd5 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version    0x000000000000218e      0x12a
+ *(.gnu.version)
+ .gnu.version   0x000000000000218e      0x12a /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version_d  0x00000000000022b8        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x00000000000022b8        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version_r  0x00000000000022b8       0x70
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x00000000000022b8       0x70 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+
+.rela.dyn       0x0000000000002328      0x390
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ .rela.text     0x0000000000002328        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ .rela.data.rel.local
+                0x0000000000002328       0x18 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ .rela.data.rel.ro.local
+                0x0000000000002340      0x138 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ .rela.got      0x0000000000002478      0x210 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ *(.rela.ldata .rela.ldata.* .rela.gnu.linkonce.l.*)
+ *(.rela.lbss .rela.lbss.* .rela.gnu.linkonce.lb.*)
+ *(.rela.lrodata .rela.lrodata.* .rela.gnu.linkonce.lr.*)
+ *(.rela.ifunc)
+ .rela.ifunc    0x0000000000002688        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ .rela.fini_array
+                0x0000000000002688       0x18 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ .rela.init_array
+                0x00000000000026a0       0x18 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+
+.rela.plt       0x00000000000026b8      0x960
+ *(.rela.plt)
+ .rela.plt      0x00000000000026b8      0x960 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ *(.rela.iplt)
+
+.init           0x0000000000003018       0x1a
+ *(SORT(.init))
+ .init          0x0000000000003018       0x15 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+                0x0000000000003018                _init
+ .init          0x000000000000302d        0x5 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
+
+.plt            0x0000000000003040      0x650
+ *(.plt)
+ .plt           0x0000000000003040      0x650 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ *(.iplt)
+
+.plt.got        0x0000000000003690       0x38
+ *(.plt.got)
+ .plt.got       0x0000000000003690       0x38 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+
+.plt.bnd
+ *(.plt.bnd)
+
+.text           0x00000000000036d0     0x5523
+ *(.text.unlikely .text.*_unlikely .text.unlikely.*)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x00000000000036d0      0x100 /usr/lib/gcc/x86_64-linux-gnu/5/crtbeginS.o
+ .text.ARDISCOVERY_Connection_RxPending
+                0x00000000000037d0      0x51d /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+ *fill*         0x0000000000003ced        0x3 
+ .text.ARDISCOVERY_Connection_TxPending
+                0x0000000000003cf0      0x39a /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+ *fill*         0x000000000000408a        0x6 
+ .text.ARDISCOVERY_Connection_CreateSocket
+                0x0000000000004090       0xa9 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+ *fill*         0x0000000000004139        0x7 
+ .text.ARDISCOVERY_Connection_ControllerInitSocket
+                0x0000000000004140      0x747 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+ *fill*         0x0000000000004887        0x9 
+ .text.ARDISCOVERY_Connection_Delete
+                0x0000000000004890       0xe6 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+                0x0000000000004890                ARDISCOVERY_Connection_Delete
+ *fill*         0x0000000000004976        0xa 
+ .text.ARDISCOVERY_Connection_New
+                0x0000000000004980      0x189 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+                0x0000000000004980                ARDISCOVERY_Connection_New
+ *fill*         0x0000000000004b09        0x7 
+ .text.ARDISCOVERY_Connection_DeviceListeningLoop
+                0x0000000000004b10      0x6d6 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+                0x0000000000004b10                ARDISCOVERY_Connection_DeviceListeningLoop
+ *fill*         0x00000000000051e6        0xa 
+ .text.ARDISCOVERY_Connection_Device_StopListening
+                0x00000000000051f0       0x42 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+                0x00000000000051f0                ARDISCOVERY_Connection_Device_StopListening
+ *fill*         0x0000000000005232        0xe 
+ .text.ARDISCOVERY_Connection_ControllerConnection
+                0x0000000000005240       0x8a /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+                0x0000000000005240                ARDISCOVERY_Connection_ControllerConnection
+ *fill*         0x00000000000052ca        0x6 
+ .text.ARDISCOVERY_Connection_getControllerIP
+                0x00000000000052d0       0x1d /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+                0x00000000000052d0                ARDISCOVERY_Connection_getControllerIP
+ *fill*         0x00000000000052ed        0x3 
+ .text.ARDISCOVERY_getProductService
+                0x00000000000052f0       0x2c /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+                0x00000000000052f0                ARDISCOVERY_getProductService
+ *fill*         0x000000000000531c        0x4 
+ .text.ARDISCOVERY_getProductID
+                0x0000000000005320        0xe /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+                0x0000000000005320                ARDISCOVERY_getProductID
+ *fill*         0x000000000000532e        0x2 
+ .text.ARDISCOVERY_getProductName
+                0x0000000000005330       0x1b /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+                0x0000000000005330                ARDISCOVERY_getProductName
+ *fill*         0x000000000000534b        0x5 
+ .text.ARDISCOVERY_getProductPathName
+                0x0000000000005350       0x68 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+                0x0000000000005350                ARDISCOVERY_getProductPathName
+ *fill*         0x00000000000053b8        0x8 
+ .text.ARDISCOVERY_getProductFromName
+                0x00000000000053c0       0x5d /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+                0x00000000000053c0                ARDISCOVERY_getProductFromName
+ *fill*         0x000000000000541d        0x3 
+ .text.ARDISCOVERY_getProductFromPathName
+                0x0000000000005420       0xe0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+                0x0000000000005420                ARDISCOVERY_getProductFromPathName
+ .text.ARDISCOVERY_getProductFromProductID
+                0x0000000000005500       0x2f /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+                0x0000000000005500                ARDISCOVERY_getProductFromProductID
+ *fill*         0x000000000000552f        0x1 
+ .text.ARDISCOVERY_getProductFamily
+                0x0000000000005530       0x18 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+                0x0000000000005530                ARDISCOVERY_getProductFamily
+ *fill*         0x0000000000005548        0x8 
+ .text.ARDISCOVERY_Device_Delete
+                0x0000000000005550       0x4e /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+                0x0000000000005550                ARDISCOVERY_Device_Delete
+ *fill*         0x000000000000559e        0x2 
+ .text.ARDISCOVERY_Device_New
+                0x00000000000055a0       0xa8 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+                0x00000000000055a0                ARDISCOVERY_Device_New
+ *fill*         0x0000000000005648        0x8 
+ .text.ARDISCOVERY_Device_NewByCopy
+                0x0000000000005650      0x137 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+                0x0000000000005650                ARDISCOVERY_Device_NewByCopy
+ *fill*         0x0000000000005787        0x9 
+ .text.ARDISCOVERY_Device_NewARNetworkAL
+                0x0000000000005790      0x267 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+                0x0000000000005790                ARDISCOVERY_Device_NewARNetworkAL
+ *fill*         0x00000000000059f7        0x9 
+ .text.ARDISCOVERY_Device_DeleteARNetworkAL
+                0x0000000000005a00       0x26 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+                0x0000000000005a00                ARDISCOVERY_Device_DeleteARNetworkAL
+ *fill*         0x0000000000005a26        0xa 
+ .text.ARDISCOVERY_Device_InitNetworkConfiguration
+                0x0000000000005a30       0x36 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+                0x0000000000005a30                ARDISCOVERY_Device_InitNetworkConfiguration
+ *fill*         0x0000000000005a66        0xa 
+ .text.ARDISCOVERY_Device_InitWifi
+                0x0000000000005a70      0x1e6 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+                0x0000000000005a70                ARDISCOVERY_Device_InitWifi
+ *fill*         0x0000000000005c56        0xa 
+ .text.ARDISCOVERY_Device_WifiAddConnectionCallbacks
+                0x0000000000005c60        0x5 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+                0x0000000000005c60                ARDISCOVERY_Device_WifiAddConnectionCallbacks
+ *fill*         0x0000000000005c65        0xb 
+ .text.ARDISCOVERY_DEVICE_WifiGetIpAddress
+                0x0000000000005c70        0x5 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+                0x0000000000005c70                ARDISCOVERY_DEVICE_WifiGetIpAddress
+ *fill*         0x0000000000005c75        0xb 
+ .text.ARDISCOVERY_Device_InitBLE
+                0x0000000000005c80      0x165 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+                0x0000000000005c80                ARDISCOVERY_Device_InitBLE
+ *fill*         0x0000000000005de5        0xb 
+ .text.ARDISCOVERY_DEVICE_Wifi_SendJsonCallback
+                0x0000000000005df0      0x13b /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+                0x0000000000005df0                ARDISCOVERY_DEVICE_Wifi_SendJsonCallback
+ *fill*         0x0000000000005f2b        0x5 
+ .text.ARDISCOVERY_DEVICE_Wifi_ReceiveJsonCallback
+                0x0000000000005f30       0xc8 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+                0x0000000000005f30                ARDISCOVERY_DEVICE_Wifi_ReceiveJsonCallback
+ *fill*         0x0000000000005ff8        0x8 
+ .text.ARDISCOVERY_DEVICE_Wifi_DeleteSpecificParameters
+                0x0000000000006000       0x76 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+                0x0000000000006000                ARDISCOVERY_DEVICE_Wifi_DeleteSpecificParameters
+ *fill*         0x0000000000006076        0xa 
+ .text.ARDISCOVERY_DEVICE_Wifi_CreateSpecificParameters
+                0x0000000000006080       0xba /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+                0x0000000000006080                ARDISCOVERY_DEVICE_Wifi_CreateSpecificParameters
+ *fill*         0x000000000000613a        0x6 
+ .text.ARDISCOVERY_DEVICE_Wifi_GetCopyOfSpecificParameters
+                0x0000000000006140       0xd2 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+                0x0000000000006140                ARDISCOVERY_DEVICE_Wifi_GetCopyOfSpecificParameters
+ *fill*         0x0000000000006212        0xe 
+ .text.ARDISCOVERY_DEVICE_Wifi_AddConnectionCallbacks
+                0x0000000000006220       0x66 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+                0x0000000000006220                ARDISCOVERY_DEVICE_Wifi_AddConnectionCallbacks
+ *fill*         0x0000000000006286        0xa 
+ .text.ARDISCOVERY_DEVICE_Wifi_DeleteARNetworkAL
+                0x0000000000006290       0x5f /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+                0x0000000000006290                ARDISCOVERY_DEVICE_Wifi_DeleteARNetworkAL
+ *fill*         0x00000000000062ef        0x1 
+ .text.ARDISCOVERY_DEVICE_Wifi_GetIpAddress
+                0x00000000000062f0       0x87 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+                0x00000000000062f0                ARDISCOVERY_DEVICE_Wifi_GetIpAddress
+ *fill*         0x0000000000006377        0x9 
+ .text.ARDISCOVERY_DEVICE_Wifi_InitBebopNetworkConfiguration
+                0x0000000000006380       0xa6 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+                0x0000000000006380                ARDISCOVERY_DEVICE_Wifi_InitBebopNetworkConfiguration
+ *fill*         0x0000000000006426        0xa 
+ .text.ARDISCOVERY_DEVICE_Wifi_InitSkyControllerNetworkConfiguration
+                0x0000000000006430        0x5 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+                0x0000000000006430                ARDISCOVERY_DEVICE_Wifi_InitSkyControllerNetworkConfiguration
+ *fill*         0x0000000000006435        0xb 
+ .text.ARDISCOVERY_DEVICE_Wifi_InitBebop2NetworkConfiguration
+                0x0000000000006440        0x5 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+                0x0000000000006440                ARDISCOVERY_DEVICE_Wifi_InitBebop2NetworkConfiguration
+ *fill*         0x0000000000006445        0xb 
+ .text.ARDISCOVERY_DEVICE_Wifi_InitJumpingSumoNetworkConfiguration
+                0x0000000000006450       0xa6 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+                0x0000000000006450                ARDISCOVERY_DEVICE_Wifi_InitJumpingSumoNetworkConfiguration
+ *fill*         0x00000000000064f6        0xa 
+ .text.ARDISCOVERY_DEVICE_Wifi_InitUnknown_Product_1NetworkConfiguration
+                0x0000000000006500       0x96 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+                0x0000000000006500                ARDISCOVERY_DEVICE_Wifi_InitUnknown_Product_1NetworkConfiguration
+ *fill*         0x0000000000006596        0xa 
+ .text.ARDISCOVERY_DEVICE_Wifi_InitEvinrudeNetworkConfiguration
+                0x00000000000065a0        0x5 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+                0x00000000000065a0                ARDISCOVERY_DEVICE_Wifi_InitEvinrudeNetworkConfiguration
+ *fill*         0x00000000000065a5        0xb 
+ .text.ARDISCOVERY_DEVICE_Wifi_DiscoveryConnect
+                0x00000000000065b0       0xc2 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+                0x00000000000065b0                ARDISCOVERY_DEVICE_Wifi_DiscoveryConnect
+ *fill*         0x0000000000006672        0xe 
+ .text.ARDISCOVERY_DEVICE_Wifi_NewARNetworkAL
+                0x0000000000006680      0x14f /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+                0x0000000000006680                ARDISCOVERY_DEVICE_Wifi_NewARNetworkAL
+ *fill*         0x00000000000067cf        0x1 
+ .text.ARDISCOVERY_DEVICE_Ble_DeleteSpecificParameters
+                0x00000000000067d0       0x46 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/BLE/ARDISCOVERY_DEVICE_Ble.c.o
+                0x00000000000067d0                ARDISCOVERY_DEVICE_Ble_DeleteSpecificParameters
+ *fill*         0x0000000000006816        0xa 
+ .text.ARDISCOVERY_DEVICE_Ble_CreateSpecificParameters
+                0x0000000000006820       0x62 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/BLE/ARDISCOVERY_DEVICE_Ble.c.o
+                0x0000000000006820                ARDISCOVERY_DEVICE_Ble_CreateSpecificParameters
+ *fill*         0x0000000000006882        0xe 
+ .text.ARDISCOVERY_DEVICE_Ble_GetCopyOfSpecificParameters
+                0x0000000000006890       0x77 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/BLE/ARDISCOVERY_DEVICE_Ble.c.o
+                0x0000000000006890                ARDISCOVERY_DEVICE_Ble_GetCopyOfSpecificParameters
+ *fill*         0x0000000000006907        0x9 
+ .text.ARDISCOVERY_DEVICE_Ble_DeleteARNetworkAL
+                0x0000000000006910       0x64 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/BLE/ARDISCOVERY_DEVICE_Ble.c.o
+                0x0000000000006910                ARDISCOVERY_DEVICE_Ble_DeleteARNetworkAL
+ *fill*         0x0000000000006974        0xc 
+ .text.ARDISCOVERY_DEVICE_Ble_NewARNetworkAL
+                0x0000000000006980      0x155 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/BLE/ARDISCOVERY_DEVICE_Ble.c.o
+                0x0000000000006980                ARDISCOVERY_DEVICE_Ble_NewARNetworkAL
+ *fill*         0x0000000000006ad5        0xb 
+ .text.ARDISCOVERY_DEVICE_Ble_InitRollingSpiderNetworkConfiguration
+                0x0000000000006ae0       0xa6 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/BLE/ARDISCOVERY_DEVICE_Ble.c.o
+                0x0000000000006ae0                ARDISCOVERY_DEVICE_Ble_InitRollingSpiderNetworkConfiguration
+ *fill*         0x0000000000006b86        0xa 
+ .text.ARDISCOVERY_Error_ToString
+                0x0000000000006b90      0x388 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/gen/Sources/ARDISCOVERY_Error.c.o
+                0x0000000000006b90                ARDISCOVERY_Error_ToString
+ *fill*         0x0000000000006f18        0x8 
+ .text.ARDISCOVERY_AvahiDiscovery_CreateService
+                0x0000000000006f20      0x241 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+ *fill*         0x0000000000007161        0xf 
+ .text.ARDISCOVERY_AvahiDiscovery_EntryGroupCb
+                0x0000000000007170      0x2c8 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+ *fill*         0x0000000000007438        0x8 
+ .text.ARDISCOVERY_AvahiDiscovery_Publisher_ClientCb
+                0x0000000000007440      0x1dd /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+ *fill*         0x000000000000761d        0x3 
+ .text.ARDISCOVERY_AvahiDiscovery_Browser_BrowseCb
+                0x0000000000007620      0x2d2 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+ *fill*         0x00000000000078f2        0xe 
+ .text.ARDISCOVERY_AvahiDiscovery_Browser_ResolveCb
+                0x0000000000007900      0x208 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+ *fill*         0x0000000000007b08        0x8 
+ .text.ARDISCOVERY_AvahiDiscovery_Browser_ClientCb
+                0x0000000000007b10      0x188 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+ *fill*         0x0000000000007c98        0x8 
+ .text.ARDISCOVERY_AvahiDiscovery_ResetService
+                0x0000000000007ca0      0x225 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+                0x0000000000007ca0                ARDISCOVERY_AvahiDiscovery_ResetService
+ *fill*         0x0000000000007ec5        0xb 
+ .text.ARDISCOVERY_AvahiDiscovery_Publish
+                0x0000000000007ed0      0x30c /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+                0x0000000000007ed0                ARDISCOVERY_AvahiDiscovery_Publish
+ *fill*         0x00000000000081dc        0x4 
+ .text.ARDISCOVERY_AvahiDiscovery_StopPublishing
+                0x00000000000081e0       0x1a /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+                0x00000000000081e0                ARDISCOVERY_AvahiDiscovery_StopPublishing
+ *fill*         0x00000000000081fa        0x6 
+ .text.ARDISCOVERY_AvahiDiscovery_Publisher_Delete
+                0x0000000000008200       0x6e /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+                0x0000000000008200                ARDISCOVERY_AvahiDiscovery_Publisher_Delete
+ *fill*         0x000000000000826e        0x2 
+ .text.ARDISCOVERY_AvahiDiscovery_Publisher_New
+                0x0000000000008270      0x25f /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+                0x0000000000008270                ARDISCOVERY_AvahiDiscovery_Publisher_New
+ *fill*         0x00000000000084cf        0x1 
+ .text.ARDISCOVERY_AvahiDiscovery_Browse
+                0x00000000000084d0      0x447 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+                0x00000000000084d0                ARDISCOVERY_AvahiDiscovery_Browse
+ *fill*         0x0000000000008917        0x9 
+ .text.ARDISCOVERY_AvahiDiscovery_StopBrowsing
+                0x0000000000008920       0x1a /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+                0x0000000000008920                ARDISCOVERY_AvahiDiscovery_StopBrowsing
+ *fill*         0x000000000000893a        0x6 
+ .text.ARDISCOVERY_AvahiDiscovery_Browser_Delete
+                0x0000000000008940       0x73 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+                0x0000000000008940                ARDISCOVERY_AvahiDiscovery_Browser_Delete
+ *fill*         0x00000000000089b3        0xd 
+ .text.ARDISCOVERY_AvahiDiscovery_Browser_New
+                0x00000000000089c0      0x233 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+                0x00000000000089c0                ARDISCOVERY_AvahiDiscovery_Browser_New
+ *(.gnu.warning)
+
+.fini           0x0000000000008bf4        0x9
+ *(SORT(.fini))
+ .fini          0x0000000000008bf4        0x4 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+                0x0000000000008bf4                _fini
+ .fini          0x0000000000008bf8        0x5 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
+                [!provide]                        PROVIDE (__etext, .)
+                [!provide]                        PROVIDE (_etext, .)
+                [!provide]                        PROVIDE (etext, .)
+
+.rodata         0x0000000000008c00     0x1149
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.str1.1
+                0x0000000000008c00       0x3f /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+ *fill*         0x0000000000008c3f        0x1 
+ .rodata.str1.8
+                0x0000000000008c40      0x313 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+ *fill*         0x0000000000008f53        0xd 
+ .rodata        0x0000000000008f60      0x18b /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+ .rodata.str1.1
+                0x00000000000090eb       0xaa /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+                                         0xab (size before relaxing)
+ *fill*         0x0000000000009195        0xb 
+ .rodata        0x00000000000091a0       0x5a /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+ .rodata.str1.1
+                0x00000000000091fa       0x13 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+                                         0x39 (size before relaxing)
+ *fill*         0x000000000000920d        0x3 
+ .rodata.str1.8
+                0x0000000000009210       0x28 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+ *fill*         0x0000000000009238        0x8 
+ .rodata        0x0000000000009240       0xa2 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+ .rodata.str1.1
+                0x00000000000092e2       0x1c /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+ .rodata.str1.1
+                0x00000000000092fe      0x28a /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/gen/Sources/ARDISCOVERY_Error.c.o
+ .rodata.str1.8
+                0x0000000000009588      0x205 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/gen/Sources/ARDISCOVERY_Error.c.o
+ .rodata.str1.1
+                0x000000000000978d       0x21 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+                                         0x47 (size before relaxing)
+ *fill*         0x00000000000097ae        0x2 
+ .rodata.str1.8
+                0x00000000000097b0      0x2e0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+                                        0x2d9 (size before relaxing)
+ *fill*         0x0000000000009a90       0x10 
+ .rodata        0x0000000000009aa0      0x2a9 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr   0x0000000000009d4c      0x224
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x0000000000009d4c      0x224 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+                0x0000000000009d4c                __GNU_EH_FRAME_HDR
+ *(.eh_frame_entry .eh_frame_entry.*)
+
+.eh_frame       0x0000000000009f70     0x1174
+ *(.eh_frame)
+ .eh_frame      0x0000000000009f70       0x40 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ .eh_frame      0x0000000000009fb0      0x3c0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+ .eh_frame      0x000000000000a370      0x130 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+ .eh_frame      0x000000000000a4a0      0x208 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+ .eh_frame      0x000000000000a6a8      0x328 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+                                        0x310 (size before relaxing)
+ .eh_frame      0x000000000000a9d0      0x130 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/BLE/ARDISCOVERY_DEVICE_Ble.c.o
+                                        0x140 (size before relaxing)
+ .eh_frame      0x000000000000ab00       0x18 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/gen/Sources/ARDISCOVERY_Error.c.o
+                                         0x30 (size before relaxing)
+ .eh_frame      0x000000000000ab18      0x5c8 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+                                        0x5c0 (size before relaxing)
+ .eh_frame      0x000000000000b0e0        0x4 /usr/lib/gcc/x86_64-linux-gnu/5/crtendS.o
+ *(.eh_frame.*)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.gnu_extab
+ *(.gnu_extab*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+                0x000000000020bc88                . = DATA_SEGMENT_ALIGN (0x200000, 0x1000)
+
+.eh_frame
+ *(.eh_frame)
+ *(.eh_frame.*)
+
+.gnu_extab
+ *(.gnu_extab)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array
+ *(.preinit_array)
+
+.init_array     0x000000000020bc88        0x8
+ *(SORT(.init_array.*) SORT(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
+ .init_array    0x000000000020bc88        0x8 /usr/lib/gcc/x86_64-linux-gnu/5/crtbeginS.o
+
+.fini_array     0x000000000020bc90        0x8
+ *(SORT(.fini_array.*) SORT(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
+ .fini_array    0x000000000020bc90        0x8 /usr/lib/gcc/x86_64-linux-gnu/5/crtbeginS.o
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+
+.jcr            0x000000000020bc98        0x8
+ *(.jcr)
+ .jcr           0x000000000020bc98        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/crtbeginS.o
+ .jcr           0x000000000020bc98        0x8 /usr/lib/gcc/x86_64-linux-gnu/5/crtendS.o
+
+.data.rel.ro    0x000000000020bca0       0x68
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ .data.rel.ro.local
+                0x000000000020bca0       0x68 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+
+.dynamic        0x000000000020bd08      0x230
+ *(.dynamic)
+ .dynamic       0x000000000020bd08      0x230 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+                0x000000000020bd08                _DYNAMIC
+
+.got            0x000000000020bf38       0xb0
+ *(.got)
+ .got           0x000000000020bf38       0xb0 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ *(.igot)
+                0x000000000020bfe8                . = DATA_SEGMENT_RELRO_END (., (SIZEOF (.got.plt) >= 0x18)?0x18:0x0)
+
+.got.plt        0x000000000020c000      0x338
+ *(.got.plt)
+ .got.plt       0x000000000020c000      0x338 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+                0x000000000020c000                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+
+.data           0x000000000020c340      0x3a0
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.rel.local
+                0x000000000020c340        0x8 /usr/lib/gcc/x86_64-linux-gnu/5/crtbeginS.o
+                0x000000000020c340                __dso_handle
+ *fill*         0x000000000020c348       0x18 
+ .data          0x000000000020c360      0x2c0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+ .data          0x000000000020c620       0xc0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/BLE/ARDISCOVERY_DEVICE_Ble.c.o
+
+.tm_clone_table
+                0x000000000020c6e0        0x0
+ .tm_clone_table
+                0x000000000020c6e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/crtbeginS.o
+ .tm_clone_table
+                0x000000000020c6e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/crtendS.o
+
+.data1
+ *(.data1)
+                0x000000000020c6e0                _edata = .
+                [!provide]                        PROVIDE (edata, .)
+                0x000000000020c6e0                . = .
+                0x000000000020c6e0                __bss_start = .
+
+.bss            0x000000000020c6e0        0x8
+ *(.dynbss)
+ .dynbss        0x000000000020c6e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x000000000020c6e0        0x1 /usr/lib/gcc/x86_64-linux-gnu/5/crtbeginS.o
+ *(COMMON)
+                0x000000000020c6e8                . = ALIGN ((. != 0x0)?0x8:0x1)
+ *fill*         0x000000000020c6e1        0x7 
+
+.lbss
+ *(.dynlbss)
+ *(.lbss .lbss.* .gnu.linkonce.lb.*)
+ *(LARGE_COMMON)
+                0x000000000020c6e8                . = ALIGN (0x8)
+                0x000000000020c6e8                . = SEGMENT_START ("ldata-segment", .)
+
+.lrodata
+ *(.lrodata .lrodata.* .gnu.linkonce.lr.*)
+
+.ldata          0x000000000060c6e8        0x0
+ *(.ldata .ldata.* .gnu.linkonce.l.*)
+                0x000000000060c6e8                . = ALIGN ((. != 0x0)?0x8:0x1)
+                0x000000000060c6e8                . = ALIGN (0x8)
+                0x000000000060c6e8                _end = .
+                [!provide]                        PROVIDE (end, .)
+                0x000000000060c6e8                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x34
+ *(.comment)
+ .comment       0x0000000000000000       0x34 /usr/lib/gcc/x86_64-linux-gnu/5/crtbeginS.o
+                                         0x35 (size before relaxing)
+ .comment       0x0000000000000034       0x35 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+ .comment       0x0000000000000034       0x35 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+ .comment       0x0000000000000034       0x35 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+ .comment       0x0000000000000034       0x35 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+ .comment       0x0000000000000034       0x35 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/BLE/ARDISCOVERY_DEVICE_Ble.c.o
+ .comment       0x0000000000000034       0x35 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/gen/Sources/ARDISCOVERY_Error.c.o
+ .comment       0x0000000000000034       0x35 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+ .comment       0x0000000000000034       0x35 /usr/lib/gcc/x86_64-linux-gnu/5/crtendS.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x4e0
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0xc0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+ .debug_aranges
+                0x00000000000000c0       0xa0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+ .debug_aranges
+                0x0000000000000160       0xc0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+ .debug_aranges
+                0x0000000000000220      0x100 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+ .debug_aranges
+                0x0000000000000320       0x80 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/BLE/ARDISCOVERY_DEVICE_Ble.c.o
+ .debug_aranges
+                0x00000000000003a0       0x30 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/gen/Sources/ARDISCOVERY_Error.c.o
+ .debug_aranges
+                0x00000000000003d0      0x110 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0xb0e2
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000     0x31c9 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+ .debug_info    0x00000000000031c9      0x61f /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+ .debug_info    0x00000000000037e8     0x16de /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+ .debug_info    0x0000000000004ec6     0x1ae7 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+ .debug_info    0x00000000000069ad     0x1107 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/BLE/ARDISCOVERY_DEVICE_Ble.c.o
+ .debug_info    0x0000000000007ab4      0x1a7 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/gen/Sources/ARDISCOVERY_Error.c.o
+ .debug_info    0x0000000000007c5b     0x3487 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+
+.debug_abbrev   0x0000000000000000     0x1394
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x41b /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+ .debug_abbrev  0x000000000000041b      0x1e7 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+ .debug_abbrev  0x0000000000000602      0x288 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+ .debug_abbrev  0x000000000000088a      0x352 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+ .debug_abbrev  0x0000000000000bdc      0x28b /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/BLE/ARDISCOVERY_DEVICE_Ble.c.o
+ .debug_abbrev  0x0000000000000e67       0x93 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/gen/Sources/ARDISCOVERY_Error.c.o
+ .debug_abbrev  0x0000000000000efa      0x49a /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+
+.debug_line     0x0000000000000000     0x23e5
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000      0x7a3 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+ .debug_line    0x00000000000007a3      0x23d /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+ .debug_line    0x00000000000009e0      0x5af /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+ .debug_line    0x0000000000000f8f      0x707 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+ .debug_line    0x0000000000001696      0x44b /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/BLE/ARDISCOVERY_DEVICE_Ble.c.o
+ .debug_line    0x0000000000001ae1      0x216 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/gen/Sources/ARDISCOVERY_Error.c.o
+ .debug_line    0x0000000000001cf7      0x6ee /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000     0x3686
+ *(.debug_str)
+ .debug_str     0x0000000000000000     0x10b2 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+                                       0x115f (size before relaxing)
+ .debug_str     0x00000000000010b2      0x53b /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+                                        0x6ef (size before relaxing)
+ .debug_str     0x00000000000015ed      0xe5e /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+                                       0x1ae0 (size before relaxing)
+ .debug_str     0x000000000000244b      0x527 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+                                       0x1e1f (size before relaxing)
+ .debug_str     0x0000000000002972      0x1ec /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/BLE/ARDISCOVERY_DEVICE_Ble.c.o
+                                       0x1a4f (size before relaxing)
+ .debug_str     0x0000000000002b5e       0x38 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/gen/Sources/ARDISCOVERY_Error.c.o
+                                        0x606 (size before relaxing)
+ .debug_str     0x0000000000002b96      0xaf0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+                                       0x1507 (size before relaxing)
+
+.debug_loc      0x0000000000000000     0x7e5f
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000     0x214c /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+ .debug_loc     0x000000000000214c      0x775 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+ .debug_loc     0x00000000000028c1      0xbc5 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+ .debug_loc     0x0000000000003486     0x1b0f /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+ .debug_loc     0x0000000000004f95      0xa66 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/BLE/ARDISCOVERY_DEVICE_Ble.c.o
+ .debug_loc     0x00000000000059fb     0x2464 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000      0xec0
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000      0x850 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+ .debug_ranges  0x0000000000000850       0xc0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+ .debug_ranges  0x0000000000000910      0x100 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+ .debug_ranges  0x0000000000000a10      0x190 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+ .debug_ranges  0x0000000000000ba0       0xa0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/BLE/ARDISCOVERY_DEVICE_Ble.c.o
+ .debug_ranges  0x0000000000000c40       0x20 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/gen/Sources/ARDISCOVERY_Error.c.o
+ .debug_ranges  0x0000000000000c60      0x260 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+
+.debug_macro
+ *(.debug_macro)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(/home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARDiscovery/libardiscovery.so elf64-x86-64)

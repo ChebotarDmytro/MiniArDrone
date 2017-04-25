@@ -1,0 +1,1032 @@
+
+As-needed library included to satisfy reference by file (symbol)
+
+libarsal.so                   /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o (ARSAL_Mutex_Destroy)
+libarnetwork.so               /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o (ARNETWORK_Manager_FlushInputBuffer)
+libm.so.6                     /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader2.c.o (sqrt@@GLIBC_2.2.5)
+libpthread.so.0               /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o (__errno_location@@GLIBC_2.2.5)
+libc.so.6                     /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader2.c.o (fopen@@GLIBC_2.2.5)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/crtbeginS.o
+ .text.unlikely
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/crtbeginS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/crtbeginS.o
+ .text          0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Buffers.c.o
+ .data          0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Buffers.c.o
+ .bss           0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Buffers.c.o
+ .text.unlikely.ARSTREAM_Buffers_InitStreamDataBuffer
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Buffers.c.o
+ .text.unlikely.ARSTREAM_Buffers_InitStreamAckBuffer
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Buffers.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Buffers.c.o
+ .text          0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+ .data          0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+ .bss           0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+ .text.unlikely.ARSTREAM_NetworkHeaders_InternalAckPacketDump.constprop.0
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+ .text.unlikely.ARSTREAM_NetworkHeaders_HammingWeight32
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+ .text.unlikely.ARSTREAM_NetworkHeaders_AckPacketAllFlagsSet
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+ .text.unlikely.ARSTREAM_NetworkHeaders_AckPacketFlagIsSet
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+ .text.unlikely.ARSTREAM_NetworkHeaders_AckPacketReset
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+ .text.unlikely.ARSTREAM_NetworkHeaders_AckPacketResetUpTo
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+ .text.unlikely.ARSTREAM_NetworkHeaders_AckPacketSetFlag
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+ .text.unlikely.ARSTREAM_NetworkHeaders_AckPacketSetFlags
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+ .text.unlikely.ARSTREAM_NetworkHeaders_AckPacketUnsetFlag
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+ .text.unlikely.ARSTREAM_NetworkHeaders_AckPacketUnsetFlags
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+ .text.unlikely.ARSTREAM_NetworkHeaders_AckPacketCountSet
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+ .text.unlikely.ARSTREAM_NetworkHeaders_AckPacketCountNotSet
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+ .text.unlikely.ARSTREAM_NetworkHeaders_AckPacketDump
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+ .text          0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+ .data          0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+ .bss           0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+ .text.unlikely.ARSTREAM_Reader_NetworkCallback
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+ .text.unlikely.ARSTREAM_Reader_InitStreamDataBuffer
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+ .text.unlikely.ARSTREAM_Reader_InitStreamAckBuffer
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+ .text.unlikely.ARSTREAM_Reader_New
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+ .text.unlikely.ARSTREAM_Reader_StopReader
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+ .text.unlikely.ARSTREAM_Reader_Delete
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+ .text.unlikely.ARSTREAM_Reader_RunDataThread
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+ .text.unlikely.ARSTREAM_Reader_RunAckThread
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+ .text.unlikely.ARSTREAM_Reader_GetEstimatedEfficiency
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+ .text.unlikely.ARSTREAM_Reader_GetCustom
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+ .text.unlikely.ARSTREAM_Reader_AddFilter
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+ .text          0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader2.c.o
+ .data          0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader2.c.o
+ .bss           0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader2.c.o
+ .text.unlikely.ARSTREAM_Reader2_CheckBufferSize
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader2.c.o
+ .text.unlikely.ARSTREAM_Reader2_ResendNalu
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader2.c.o
+ .text.unlikely.ARSTREAM_Reader2_OutputNalu
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader2.c.o
+ .text.unlikely.ARSTREAM_Reader2_Resender_NaluCallback
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader2.c.o
+ .text.unlikely.ARSTREAM_Reader2_New
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader2.c.o
+ .text.unlikely.ARSTREAM_Reader2_InvalidateNaluBuffer
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader2.c.o
+ .text.unlikely.ARSTREAM_Reader2_StopReader
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader2.c.o
+ .text.unlikely.ARSTREAM_Reader2_Delete
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader2.c.o
+ .text.unlikely.ARSTREAM_Reader2_RunStreamThread
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader2.c.o
+ .text.unlikely.ARSTREAM_Reader2_RunControlThread
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader2.c.o
+ .text.unlikely.ARSTREAM_Reader2_GetNaluCallbackUserPtr
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader2.c.o
+ .text.unlikely.ARSTREAM_Reader2_GetMonitoring
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader2.c.o
+ .text.unlikely.ARSTREAM_Reader2_Resender_New
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader2.c.o
+ .text.unlikely.ARSTREAM_Reader2_Resender_Stop
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader2.c.o
+ .text.unlikely.ARSTREAM_Reader2_Resender_Delete
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader2.c.o
+ .text.unlikely.ARSTREAM_Reader2_Resender_RunStreamThread
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader2.c.o
+ .text.unlikely.ARSTREAM_Reader2_Resender_RunControlThread
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader2.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader2.c.o
+ .text          0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+ .data          0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+ .bss           0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+ .text.unlikely.ARSTREAM_Sender_NetworkCallback
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+ .text.unlikely.ARSTREAM_Sender_FlushQueue
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+ .text.unlikely.ARSTREAM_Sender_AddToQueue
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+ .text.unlikely.ARSTREAM_Sender_CallCallback.constprop.1
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+ .text.unlikely.ARSTREAM_Sender_InitStreamDataBuffer
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+ .text.unlikely.ARSTREAM_Sender_InitStreamAckBuffer
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+ .text.unlikely.ARSTREAM_Sender_New
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+ .text.unlikely.ARSTREAM_Sender_SetTimeBetweenRetries
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+ .text.unlikely.ARSTREAM_Sender_StopSender
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+ .text.unlikely.ARSTREAM_Sender_Delete
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+ .text.unlikely.ARSTREAM_Sender_SendNewFrame
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+ .text.unlikely.ARSTREAM_Sender_FlushFramesQueue
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+ .text.unlikely.ARSTREAM_Sender_RunDataThread
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+ .text.unlikely.ARSTREAM_Sender_RunAckThread
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+ .text.unlikely.ARSTREAM_Sender_GetEstimatedEfficiency
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+ .text.unlikely.ARSTREAM_Sender_GetCustom
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+ .text.unlikely.ARSTREAM_Sender_AddFilter
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+ .text          0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender2.c.o
+ .data          0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender2.c.o
+ .bss           0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender2.c.o
+ .text.unlikely.ARSTREAM_Sender2_UpdateMonitoring
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender2.c.o
+ .text.unlikely.ARSTREAM_Sender2_DequeueNalu
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender2.c.o
+ .text.unlikely.ARSTREAM_Sender2_SendData
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender2.c.o
+ .text.unlikely.ARSTREAM_Sender2_FlushNaluFifo.part.0
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender2.c.o
+ .text.unlikely.ARSTREAM_Sender2_New
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender2.c.o
+ .text.unlikely.ARSTREAM_Sender2_StopSender
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender2.c.o
+ .text.unlikely.ARSTREAM_Sender2_Delete
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender2.c.o
+ .text.unlikely.ARSTREAM_Sender2_SendNewNalu
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender2.c.o
+ .text.unlikely.ARSTREAM_Sender2_SendNNewNalu
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender2.c.o
+ .text.unlikely.ARSTREAM_Sender2_FlushNaluQueue
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender2.c.o
+ .text.unlikely.ARSTREAM_Sender2_RunStreamThread
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender2.c.o
+ .text.unlikely.ARSTREAM_Sender2_RunControlThread
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender2.c.o
+ .text.unlikely.ARSTREAM_Sender2_GetAuCallbackUserPtr
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender2.c.o
+ .text.unlikely.ARSTREAM_Sender2_GetNaluCallbackUserPtr
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender2.c.o
+ .text.unlikely.ARSTREAM_Sender2_GetMonitoring
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender2.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender2.c.o
+ .text          0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/gen/Sources/ARSTREAM_Error.c.o
+ .data          0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/gen/Sources/ARSTREAM_Error.c.o
+ .bss           0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/gen/Sources/ARSTREAM_Error.c.o
+ .text.unlikely.ARSTREAM_Error_ToString
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/gen/Sources/ARSTREAM_Error.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/gen/Sources/ARSTREAM_Error.c.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/crtendS.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/crtendS.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/crtendS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/crtendS.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/5/crtbeginS.o
+LOAD /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Buffers.c.o
+LOAD /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+LOAD /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+LOAD /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader2.c.o
+LOAD /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+LOAD /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender2.c.o
+LOAD /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/gen/Sources/ARSTREAM_Error.c.o
+LOAD /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/staging/usr/lib/libarsal.so
+LOAD /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/staging/usr/lib/libarnetworkal.so
+LOAD /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/staging/usr/lib/libarnetwork.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/librt.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/5/libstdc++.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/libm.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libm.so.6
+LOAD /usr/lib/x86_64-linux-gnu/libmvec_nonshared.a
+LOAD /lib/x86_64-linux-gnu/libmvec.so.1
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/5/libgcc_s.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/libpthread.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libpthread.so.0
+LOAD /usr/lib/x86_64-linux-gnu/libpthread_nonshared.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/libc.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libc.so.6
+LOAD /usr/lib/x86_64-linux-gnu/libc_nonshared.a
+LOAD /lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/5/libgcc_s.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/5/crtendS.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
+                0x00000000000001c8                . = (0x0 + SIZEOF_HEADERS)
+
+.note.gnu.build-id
+                0x00000000000001c8       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x00000000000001c8       0x24 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+
+.hash
+ *(.hash)
+
+.gnu.hash       0x00000000000001f0      0x1ec
+ *(.gnu.hash)
+ .gnu.hash      0x00000000000001f0      0x1ec /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+
+.dynsym         0x00000000000003e0      0xbe8
+ *(.dynsym)
+ .dynsym        0x00000000000003e0      0xbe8 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+
+.dynstr         0x0000000000000fc8      0xcae
+ *(.dynstr)
+ .dynstr        0x0000000000000fc8      0xcae /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version    0x0000000000001c76       0xfe
+ *(.gnu.version)
+ .gnu.version   0x0000000000001c76       0xfe /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version_d  0x0000000000001d78        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x0000000000001d78        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version_r  0x0000000000001d78       0x90
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x0000000000001d78       0x90 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+
+.rela.dyn       0x0000000000001e08       0xf0
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ .rela.text     0x0000000000001e08        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ .rela.data.rel.local
+                0x0000000000001e08       0x18 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ .rela.got      0x0000000000001e20       0xa8 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ *(.rela.ldata .rela.ldata.* .rela.gnu.linkonce.l.*)
+ *(.rela.lbss .rela.lbss.* .rela.gnu.linkonce.lb.*)
+ *(.rela.lrodata .rela.lrodata.* .rela.gnu.linkonce.lr.*)
+ *(.rela.ifunc)
+ .rela.ifunc    0x0000000000001ec8        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ .rela.fini_array
+                0x0000000000001ec8       0x18 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ .rela.init_array
+                0x0000000000001ee0       0x18 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+
+.rela.plt       0x0000000000001ef8      0x660
+ *(.rela.plt)
+ .rela.plt      0x0000000000001ef8      0x660 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ *(.rela.iplt)
+
+.init           0x0000000000002558       0x1a
+ *(SORT(.init))
+ .init          0x0000000000002558       0x15 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+                0x0000000000002558                _init
+ .init          0x000000000000256d        0x5 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
+
+.plt            0x0000000000002580      0x450
+ *(.plt)
+ .plt           0x0000000000002580      0x450 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ *(.iplt)
+
+.plt.got        0x00000000000029d0       0x10
+ *(.plt.got)
+ .plt.got       0x00000000000029d0       0x10 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+
+.plt.bnd
+ *(.plt.bnd)
+
+.text           0x00000000000029e0     0xcf48
+ *(.text.unlikely .text.*_unlikely .text.unlikely.*)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x00000000000029e0      0x100 /usr/lib/gcc/x86_64-linux-gnu/5/crtbeginS.o
+ .text.ARSTREAM_Buffers_InitStreamDataBuffer
+                0x0000000000002ae0       0x4c /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Buffers.c.o
+                0x0000000000002ae0                ARSTREAM_Buffers_InitStreamDataBuffer
+ *fill*         0x0000000000002b2c        0x4 
+ .text.ARSTREAM_Buffers_InitStreamAckBuffer
+                0x0000000000002b30       0x42 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Buffers.c.o
+                0x0000000000002b30                ARSTREAM_Buffers_InitStreamAckBuffer
+ *fill*         0x0000000000002b72        0xe 
+ .text.ARSTREAM_NetworkHeaders_InternalAckPacketDump.constprop.0
+                0x0000000000002b80      0x269 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+ *fill*         0x0000000000002de9        0x7 
+ .text.ARSTREAM_NetworkHeaders_HammingWeight32
+                0x0000000000002df0       0x33 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+                0x0000000000002df0                ARSTREAM_NetworkHeaders_HammingWeight32
+ *fill*         0x0000000000002e23        0xd 
+ .text.ARSTREAM_NetworkHeaders_AckPacketAllFlagsSet
+                0x0000000000002e30       0x5f /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+                0x0000000000002e30                ARSTREAM_NetworkHeaders_AckPacketAllFlagsSet
+ *fill*         0x0000000000002e8f        0x1 
+ .text.ARSTREAM_NetworkHeaders_AckPacketFlagIsSet
+                0x0000000000002e90       0x3d /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+                0x0000000000002e90                ARSTREAM_NetworkHeaders_AckPacketFlagIsSet
+ *fill*         0x0000000000002ecd        0x3 
+ .text.ARSTREAM_NetworkHeaders_AckPacketReset
+                0x0000000000002ed0       0x11 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+                0x0000000000002ed0                ARSTREAM_NetworkHeaders_AckPacketReset
+ *fill*         0x0000000000002ee1        0xf 
+ .text.ARSTREAM_NetworkHeaders_AckPacketResetUpTo
+                0x0000000000002ef0       0x55 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+                0x0000000000002ef0                ARSTREAM_NetworkHeaders_AckPacketResetUpTo
+ *fill*         0x0000000000002f45        0xb 
+ .text.ARSTREAM_NetworkHeaders_AckPacketSetFlag
+                0x0000000000002f50       0x2f /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+                0x0000000000002f50                ARSTREAM_NetworkHeaders_AckPacketSetFlag
+ *fill*         0x0000000000002f7f        0x1 
+ .text.ARSTREAM_NetworkHeaders_AckPacketSetFlags
+                0x0000000000002f80       0x11 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+                0x0000000000002f80                ARSTREAM_NetworkHeaders_AckPacketSetFlags
+ *fill*         0x0000000000002f91        0xf 
+ .text.ARSTREAM_NetworkHeaders_AckPacketUnsetFlag
+                0x0000000000002fa0       0x4e /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+                0x0000000000002fa0                ARSTREAM_NetworkHeaders_AckPacketUnsetFlag
+ *fill*         0x0000000000002fee        0x2 
+ .text.ARSTREAM_NetworkHeaders_AckPacketUnsetFlags
+                0x0000000000002ff0       0x2f /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+                0x0000000000002ff0                ARSTREAM_NetworkHeaders_AckPacketUnsetFlags
+ *fill*         0x000000000000301f        0x1 
+ .text.ARSTREAM_NetworkHeaders_AckPacketCountSet
+                0x0000000000003020       0xb5 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+                0x0000000000003020                ARSTREAM_NetworkHeaders_AckPacketCountSet
+ *fill*         0x00000000000030d5        0xb 
+ .text.ARSTREAM_NetworkHeaders_AckPacketCountNotSet
+                0x00000000000030e0      0x11b /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+                0x00000000000030e0                ARSTREAM_NetworkHeaders_AckPacketCountNotSet
+ *fill*         0x00000000000031fb        0x5 
+ .text.ARSTREAM_NetworkHeaders_AckPacketDump
+                0x0000000000003200        0x5 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+                0x0000000000003200                ARSTREAM_NetworkHeaders_AckPacketDump
+ *fill*         0x0000000000003205        0xb 
+ .text.ARSTREAM_Reader_NetworkCallback
+                0x0000000000003210        0x3 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+                0x0000000000003210                ARSTREAM_Reader_NetworkCallback
+ *fill*         0x0000000000003213        0xd 
+ .text.ARSTREAM_Reader_InitStreamDataBuffer
+                0x0000000000003220        0xf /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+                0x0000000000003220                ARSTREAM_Reader_InitStreamDataBuffer
+ *fill*         0x000000000000322f        0x1 
+ .text.ARSTREAM_Reader_InitStreamAckBuffer
+                0x0000000000003230        0x5 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+                0x0000000000003230                ARSTREAM_Reader_InitStreamAckBuffer
+ *fill*         0x0000000000003235        0xb 
+ .text.ARSTREAM_Reader_New
+                0x0000000000003240      0x20a /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+                0x0000000000003240                ARSTREAM_Reader_New
+ *fill*         0x000000000000344a        0x6 
+ .text.ARSTREAM_Reader_StopReader
+                0x0000000000003450       0x4c /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+                0x0000000000003450                ARSTREAM_Reader_StopReader
+ *fill*         0x000000000000349c        0x4 
+ .text.ARSTREAM_Reader_Delete
+                0x00000000000034a0      0x13c /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+                0x00000000000034a0                ARSTREAM_Reader_Delete
+ *fill*         0x00000000000035dc        0x4 
+ .text.ARSTREAM_Reader_RunDataThread
+                0x00000000000035e0      0xb44 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+                0x00000000000035e0                ARSTREAM_Reader_RunDataThread
+ *fill*         0x0000000000004124        0xc 
+ .text.ARSTREAM_Reader_RunAckThread
+                0x0000000000004130      0x279 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+                0x0000000000004130                ARSTREAM_Reader_RunAckThread
+ *fill*         0x00000000000043a9        0x7 
+ .text.ARSTREAM_Reader_GetEstimatedEfficiency
+                0x00000000000043b0      0x132 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+                0x00000000000043b0                ARSTREAM_Reader_GetEstimatedEfficiency
+ *fill*         0x00000000000044e2        0xe 
+ .text.ARSTREAM_Reader_GetCustom
+                0x00000000000044f0       0x13 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+                0x00000000000044f0                ARSTREAM_Reader_GetCustom
+ *fill*         0x0000000000004503        0xd 
+ .text.ARSTREAM_Reader_AddFilter
+                0x0000000000004510       0x96 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+                0x0000000000004510                ARSTREAM_Reader_AddFilter
+ *fill*         0x00000000000045a6        0xa 
+ .text.ARSTREAM_Reader2_CheckBufferSize
+                0x00000000000045b0       0xe9 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader2.c.o
+ *fill*         0x0000000000004699        0x7 
+ .text.ARSTREAM_Reader2_ResendNalu
+                0x00000000000046a0      0x5dc /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader2.c.o
+ *fill*         0x0000000000004c7c        0x4 
+ .text.ARSTREAM_Reader2_OutputNalu
+                0x0000000000004c80       0xa6 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader2.c.o
+ *fill*         0x0000000000004d26        0xa 
+ .text.ARSTREAM_Reader2_Resender_NaluCallback
+                0x0000000000004d30       0x42 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader2.c.o
+ *fill*         0x0000000000004d72        0xe 
+ .text.ARSTREAM_Reader2_New
+                0x0000000000004d80      0x779 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader2.c.o
+                0x0000000000004d80                ARSTREAM_Reader2_New
+ *fill*         0x00000000000054f9        0x7 
+ .text.ARSTREAM_Reader2_InvalidateNaluBuffer
+                0x0000000000005500      0x17e /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader2.c.o
+                0x0000000000005500                ARSTREAM_Reader2_InvalidateNaluBuffer
+ *fill*         0x000000000000567e        0x2 
+ .text.ARSTREAM_Reader2_StopReader
+                0x0000000000005680      0x149 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader2.c.o
+                0x0000000000005680                ARSTREAM_Reader2_StopReader
+ *fill*         0x00000000000057c9        0x7 
+ .text.ARSTREAM_Reader2_Delete
+                0x00000000000057d0      0x453 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader2.c.o
+                0x00000000000057d0                ARSTREAM_Reader2_Delete
+ *fill*         0x0000000000005c23        0xd 
+ .text.ARSTREAM_Reader2_RunStreamThread
+                0x0000000000005c30     0x1daf /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader2.c.o
+                0x0000000000005c30                ARSTREAM_Reader2_RunStreamThread
+ *fill*         0x00000000000079df        0x1 
+ .text.ARSTREAM_Reader2_RunControlThread
+                0x00000000000079e0      0xcc0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader2.c.o
+                0x00000000000079e0                ARSTREAM_Reader2_RunControlThread
+ .text.ARSTREAM_Reader2_GetNaluCallbackUserPtr
+                0x00000000000086a0       0x13 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader2.c.o
+                0x00000000000086a0                ARSTREAM_Reader2_GetNaluCallbackUserPtr
+ *fill*         0x00000000000086b3        0xd 
+ .text.ARSTREAM_Reader2_GetMonitoring
+                0x00000000000086c0      0x505 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader2.c.o
+                0x00000000000086c0                ARSTREAM_Reader2_GetMonitoring
+ *fill*         0x0000000000008bc5        0xb 
+ .text.ARSTREAM_Reader2_Resender_New
+                0x0000000000008bd0      0x1e4 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader2.c.o
+                0x0000000000008bd0                ARSTREAM_Reader2_Resender_New
+ *fill*         0x0000000000008db4        0xc 
+ .text.ARSTREAM_Reader2_Resender_Stop
+                0x0000000000008dc0       0x42 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader2.c.o
+                0x0000000000008dc0                ARSTREAM_Reader2_Resender_Stop
+ *fill*         0x0000000000008e02        0xe 
+ .text.ARSTREAM_Reader2_Resender_Delete
+                0x0000000000008e10      0x36e /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader2.c.o
+                0x0000000000008e10                ARSTREAM_Reader2_Resender_Delete
+ *fill*         0x000000000000917e        0x2 
+ .text.ARSTREAM_Reader2_Resender_RunStreamThread
+                0x0000000000009180       0x13 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader2.c.o
+                0x0000000000009180                ARSTREAM_Reader2_Resender_RunStreamThread
+ *fill*         0x0000000000009193        0xd 
+ .text.ARSTREAM_Reader2_Resender_RunControlThread
+                0x00000000000091a0       0x13 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader2.c.o
+                0x00000000000091a0                ARSTREAM_Reader2_Resender_RunControlThread
+ *fill*         0x00000000000091b3        0xd 
+ .text.ARSTREAM_Sender_NetworkCallback
+                0x00000000000091c0      0x238 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+                0x00000000000091c0                ARSTREAM_Sender_NetworkCallback
+ *fill*         0x00000000000093f8        0x8 
+ .text.ARSTREAM_Sender_FlushQueue
+                0x0000000000009400       0x6d /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+ *fill*         0x000000000000946d        0x3 
+ .text.ARSTREAM_Sender_AddToQueue
+                0x0000000000009470       0xe8 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+ *fill*         0x0000000000009558        0x8 
+ .text.ARSTREAM_Sender_CallCallback.constprop.1
+                0x0000000000009560       0x43 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+ *fill*         0x00000000000095a3        0xd 
+ .text.ARSTREAM_Sender_InitStreamDataBuffer
+                0x00000000000095b0        0xf /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+                0x00000000000095b0                ARSTREAM_Sender_InitStreamDataBuffer
+ *fill*         0x00000000000095bf        0x1 
+ .text.ARSTREAM_Sender_InitStreamAckBuffer
+                0x00000000000095c0        0x5 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+                0x00000000000095c0                ARSTREAM_Sender_InitStreamAckBuffer
+ *fill*         0x00000000000095c5        0xb 
+ .text.ARSTREAM_Sender_New
+                0x00000000000095d0      0x39b /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+                0x00000000000095d0                ARSTREAM_Sender_New
+ *fill*         0x000000000000996b        0x5 
+ .text.ARSTREAM_Sender_SetTimeBetweenRetries
+                0x0000000000009970       0x26 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+                0x0000000000009970                ARSTREAM_Sender_SetTimeBetweenRetries
+ *fill*         0x0000000000009996        0xa 
+ .text.ARSTREAM_Sender_StopSender
+                0x00000000000099a0       0x1d /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+                0x00000000000099a0                ARSTREAM_Sender_StopSender
+ *fill*         0x00000000000099bd        0x3 
+ .text.ARSTREAM_Sender_Delete
+                0x00000000000099c0      0x18f /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+                0x00000000000099c0                ARSTREAM_Sender_Delete
+ *fill*         0x0000000000009b4f        0x1 
+ .text.ARSTREAM_Sender_SendNewFrame
+                0x0000000000009b50       0x74 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+                0x0000000000009b50                ARSTREAM_Sender_SendNewFrame
+ *fill*         0x0000000000009bc4        0xc 
+ .text.ARSTREAM_Sender_FlushFramesQueue
+                0x0000000000009bd0       0x46 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+                0x0000000000009bd0                ARSTREAM_Sender_FlushFramesQueue
+ *fill*         0x0000000000009c16        0xa 
+ .text.ARSTREAM_Sender_RunDataThread
+                0x0000000000009c20      0x9df /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+                0x0000000000009c20                ARSTREAM_Sender_RunDataThread
+ *fill*         0x000000000000a5ff        0x1 
+ .text.ARSTREAM_Sender_RunAckThread
+                0x000000000000a600      0x40f /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+                0x000000000000a600                ARSTREAM_Sender_RunAckThread
+ *fill*         0x000000000000aa0f        0x1 
+ .text.ARSTREAM_Sender_GetEstimatedEfficiency
+                0x000000000000aa10      0x14a /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+                0x000000000000aa10                ARSTREAM_Sender_GetEstimatedEfficiency
+ *fill*         0x000000000000ab5a        0x6 
+ .text.ARSTREAM_Sender_GetCustom
+                0x000000000000ab60       0x13 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+                0x000000000000ab60                ARSTREAM_Sender_GetCustom
+ *fill*         0x000000000000ab73        0xd 
+ .text.ARSTREAM_Sender_AddFilter
+                0x000000000000ab80       0x8c /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+                0x000000000000ab80                ARSTREAM_Sender_AddFilter
+ *fill*         0x000000000000ac0c        0x4 
+ .text.ARSTREAM_Sender2_UpdateMonitoring
+                0x000000000000ac10      0x19a /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender2.c.o
+ *fill*         0x000000000000adaa        0x6 
+ .text.ARSTREAM_Sender2_DequeueNalu
+                0x000000000000adb0      0x12f /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender2.c.o
+ *fill*         0x000000000000aedf        0x1 
+ .text.ARSTREAM_Sender2_SendData
+                0x000000000000aee0      0xd22 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender2.c.o
+ *fill*         0x000000000000bc02        0xe 
+ .text.ARSTREAM_Sender2_FlushNaluFifo.part.0
+                0x000000000000bc10       0xd2 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender2.c.o
+ *fill*         0x000000000000bce2        0xe 
+ .text.ARSTREAM_Sender2_New
+                0x000000000000bcf0      0x76c /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender2.c.o
+                0x000000000000bcf0                ARSTREAM_Sender2_New
+ *fill*         0x000000000000c45c        0x4 
+ .text.ARSTREAM_Sender2_StopSender
+                0x000000000000c460       0x42 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender2.c.o
+                0x000000000000c460                ARSTREAM_Sender2_StopSender
+ *fill*         0x000000000000c4a2        0xe 
+ .text.ARSTREAM_Sender2_Delete
+                0x000000000000c4b0      0x1ff /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender2.c.o
+                0x000000000000c4b0                ARSTREAM_Sender2_Delete
+ *fill*         0x000000000000c6af        0x1 
+ .text.ARSTREAM_Sender2_SendNewNalu
+                0x000000000000c6b0      0x1fe /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender2.c.o
+                0x000000000000c6b0                ARSTREAM_Sender2_SendNewNalu
+ *fill*         0x000000000000c8ae        0x2 
+ .text.ARSTREAM_Sender2_SendNNewNalu
+                0x000000000000c8b0      0x2a9 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender2.c.o
+                0x000000000000c8b0                ARSTREAM_Sender2_SendNNewNalu
+ *fill*         0x000000000000cb59        0x7 
+ .text.ARSTREAM_Sender2_FlushNaluQueue
+                0x000000000000cb60       0x26 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender2.c.o
+                0x000000000000cb60                ARSTREAM_Sender2_FlushNaluQueue
+ *fill*         0x000000000000cb86        0xa 
+ .text.ARSTREAM_Sender2_RunStreamThread
+                0x000000000000cb90     0x1a82 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender2.c.o
+                0x000000000000cb90                ARSTREAM_Sender2_RunStreamThread
+ *fill*         0x000000000000e612        0xe 
+ .text.ARSTREAM_Sender2_RunControlThread
+                0x000000000000e620      0xba9 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender2.c.o
+                0x000000000000e620                ARSTREAM_Sender2_RunControlThread
+ *fill*         0x000000000000f1c9        0x7 
+ .text.ARSTREAM_Sender2_GetAuCallbackUserPtr
+                0x000000000000f1d0       0x13 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender2.c.o
+                0x000000000000f1d0                ARSTREAM_Sender2_GetAuCallbackUserPtr
+ *fill*         0x000000000000f1e3        0xd 
+ .text.ARSTREAM_Sender2_GetNaluCallbackUserPtr
+                0x000000000000f1f0       0x13 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender2.c.o
+                0x000000000000f1f0                ARSTREAM_Sender2_GetNaluCallbackUserPtr
+ *fill*         0x000000000000f203        0xd 
+ .text.ARSTREAM_Sender2_GetMonitoring
+                0x000000000000f210      0x69f /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender2.c.o
+                0x000000000000f210                ARSTREAM_Sender2_GetMonitoring
+ *fill*         0x000000000000f8af        0x1 
+ .text.ARSTREAM_Error_ToString
+                0x000000000000f8b0       0x78 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/gen/Sources/ARSTREAM_Error.c.o
+                0x000000000000f8b0                ARSTREAM_Error_ToString
+ *(.gnu.warning)
+
+.fini           0x000000000000f928        0x9
+ *(SORT(.fini))
+ .fini          0x000000000000f928        0x4 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+                0x000000000000f928                _fini
+ .fini          0x000000000000f92c        0x5 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
+                [!provide]                        PROVIDE (__etext, .)
+                [!provide]                        PROVIDE (_etext, .)
+                [!provide]                        PROVIDE (etext, .)
+
+.rodata         0x000000000000f940     0x2508
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.str1.1
+                0x000000000000f940       0x21 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+ *fill*         0x000000000000f961        0x7 
+ .rodata.str1.8
+                0x000000000000f968       0xd3 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+ *fill*         0x000000000000fa3b        0x5 
+ .rodata        0x000000000000fa40       0x2e /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+ .rodata.str1.1
+                0x000000000000fa6e       0x10 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+                                         0x19 (size before relaxing)
+ *fill*         0x000000000000fa7e        0x2 
+ .rodata.str1.8
+                0x000000000000fa80      0x26f /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+ *fill*         0x000000000000fcef       0x11 
+ .rodata        0x000000000000fd00       0x87 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+ *fill*         0x000000000000fd87        0x1 
+ .rodata.cst4   0x000000000000fd88        0x8 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+ .rodata.str1.1
+                0x000000000000fd90       0x6f /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader2.c.o
+                                         0x78 (size before relaxing)
+ *fill*         0x000000000000fdff        0x1 
+ .rodata.str1.8
+                0x000000000000fe00      0xe74 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader2.c.o
+ *fill*         0x0000000000010c74        0xc 
+ .rodata        0x0000000000010c80      0x285 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader2.c.o
+ .rodata.str1.1
+                0x0000000000010f05       0x10 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+                                         0x19 (size before relaxing)
+ *fill*         0x0000000000010f15        0x3 
+ .rodata.str1.8
+                0x0000000000010f18      0x2ec /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+                                        0x3b7 (size before relaxing)
+ *fill*         0x0000000000011204       0x1c 
+ .rodata        0x0000000000011220       0xc0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+ .rodata.cst4   0x00000000000112e0        0x8 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+ .rodata.str1.1
+                0x00000000000112e0       0x39 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender2.c.o
+                                         0x78 (size before relaxing)
+ *fill*         0x0000000000011319        0x7 
+ .rodata.str1.8
+                0x0000000000011320      0x8a1 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender2.c.o
+                                        0xd09 (size before relaxing)
+ *fill*         0x0000000000011bc1       0x1f 
+ .rodata        0x0000000000011be0      0x185 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender2.c.o
+ *fill*         0x0000000000011d65        0x3 
+ .rodata.cst8   0x0000000000011d68        0x8 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender2.c.o
+ .rodata.str1.1
+                0x0000000000011d70       0x52 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/gen/Sources/ARSTREAM_Error.c.o
+ *fill*         0x0000000000011dc2        0x6 
+ .rodata.str1.8
+                0x0000000000011dc8       0x68 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/gen/Sources/ARSTREAM_Error.c.o
+                                         0x67 (size before relaxing)
+ .rodata        0x0000000000011e30       0x18 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/gen/Sources/ARSTREAM_Error.c.o
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr   0x0000000000011e48      0x274
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x0000000000011e48      0x274 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Buffers.c.o
+                0x0000000000011e48                __GNU_EH_FRAME_HDR
+ *(.eh_frame_entry .eh_frame_entry.*)
+
+.eh_frame       0x00000000000120c0     0x1acc
+ *(.eh_frame)
+ .eh_frame      0x00000000000120c0       0x40 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ .eh_frame      0x0000000000012100       0x70 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Buffers.c.o
+                                         0x88 (size before relaxing)
+ .eh_frame      0x0000000000012170      0x238 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+                                        0x220 (size before relaxing)
+ .eh_frame      0x00000000000123a8      0x368 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+                                        0x360 (size before relaxing)
+ .eh_frame      0x0000000000012710      0x8e8 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader2.c.o
+                                        0x8d0 (size before relaxing)
+ .eh_frame      0x0000000000012ff8      0x488 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+                                        0x468 (size before relaxing)
+ .eh_frame      0x0000000000013480      0x6f0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender2.c.o
+                                        0x6e0 (size before relaxing)
+ .eh_frame      0x0000000000013b70       0x18 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/gen/Sources/ARSTREAM_Error.c.o
+                                         0x30 (size before relaxing)
+ .eh_frame      0x0000000000013b88        0x4 /usr/lib/gcc/x86_64-linux-gnu/5/crtendS.o
+ *(.eh_frame.*)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.gnu_extab
+ *(.gnu_extab*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+                0x0000000000213da0                . = DATA_SEGMENT_ALIGN (0x200000, 0x1000)
+
+.eh_frame
+ *(.eh_frame)
+ *(.eh_frame.*)
+
+.gnu_extab
+ *(.gnu_extab)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array
+ *(.preinit_array)
+
+.init_array     0x0000000000213da0        0x8
+ *(SORT(.init_array.*) SORT(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
+ .init_array    0x0000000000213da0        0x8 /usr/lib/gcc/x86_64-linux-gnu/5/crtbeginS.o
+
+.fini_array     0x0000000000213da8        0x8
+ *(SORT(.fini_array.*) SORT(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
+ .fini_array    0x0000000000213da8        0x8 /usr/lib/gcc/x86_64-linux-gnu/5/crtbeginS.o
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+
+.jcr            0x0000000000213db0        0x8
+ *(.jcr)
+ .jcr           0x0000000000213db0        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/crtbeginS.o
+ .jcr           0x0000000000213db0        0x8 /usr/lib/gcc/x86_64-linux-gnu/5/crtendS.o
+
+.data.rel.ro
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+
+.dynamic        0x0000000000213db8      0x210
+ *(.dynamic)
+ .dynamic       0x0000000000213db8      0x210 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+                0x0000000000213db8                _DYNAMIC
+
+.got            0x0000000000213fc8       0x38
+ *(.got)
+ .got           0x0000000000213fc8       0x38 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ *(.igot)
+                0x0000000000214fe8                . = DATA_SEGMENT_RELRO_END (., (SIZEOF (.got.plt) >= 0x18)?0x18:0x0)
+
+.got.plt        0x0000000000214000      0x238
+ *(.got.plt)
+ .got.plt       0x0000000000214000      0x238 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+                0x0000000000214000                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+
+.data           0x0000000000214238        0x8
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.rel.local
+                0x0000000000214238        0x8 /usr/lib/gcc/x86_64-linux-gnu/5/crtbeginS.o
+                0x0000000000214238                __dso_handle
+
+.tm_clone_table
+                0x0000000000214240        0x0
+ .tm_clone_table
+                0x0000000000214240        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/crtbeginS.o
+ .tm_clone_table
+                0x0000000000214240        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/crtendS.o
+
+.data1
+ *(.data1)
+                0x0000000000214240                _edata = .
+                [!provide]                        PROVIDE (edata, .)
+                0x0000000000214240                . = .
+                0x0000000000214240                __bss_start = .
+
+.bss            0x0000000000214240        0x8
+ *(.dynbss)
+ .dynbss        0x0000000000214240        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x0000000000214240        0x1 /usr/lib/gcc/x86_64-linux-gnu/5/crtbeginS.o
+ *(COMMON)
+                0x0000000000214248                . = ALIGN ((. != 0x0)?0x8:0x1)
+ *fill*         0x0000000000214241        0x7 
+
+.lbss
+ *(.dynlbss)
+ *(.lbss .lbss.* .gnu.linkonce.lb.*)
+ *(LARGE_COMMON)
+                0x0000000000214248                . = ALIGN (0x8)
+                0x0000000000214248                . = SEGMENT_START ("ldata-segment", .)
+
+.lrodata
+ *(.lrodata .lrodata.* .gnu.linkonce.lr.*)
+
+.ldata          0x0000000000614248        0x0
+ *(.ldata .ldata.* .gnu.linkonce.l.*)
+                0x0000000000614248                . = ALIGN ((. != 0x0)?0x8:0x1)
+                0x0000000000614248                . = ALIGN (0x8)
+                0x0000000000614248                _end = .
+                [!provide]                        PROVIDE (end, .)
+                0x0000000000614248                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x34
+ *(.comment)
+ .comment       0x0000000000000000       0x34 /usr/lib/gcc/x86_64-linux-gnu/5/crtbeginS.o
+                                         0x35 (size before relaxing)
+ .comment       0x0000000000000034       0x35 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Buffers.c.o
+ .comment       0x0000000000000034       0x35 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+ .comment       0x0000000000000034       0x35 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+ .comment       0x0000000000000034       0x35 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader2.c.o
+ .comment       0x0000000000000034       0x35 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+ .comment       0x0000000000000034       0x35 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender2.c.o
+ .comment       0x0000000000000034       0x35 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/gen/Sources/ARSTREAM_Error.c.o
+ .comment       0x0000000000000034       0x35 /usr/lib/gcc/x86_64-linux-gnu/5/crtendS.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x5a0
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x40 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Buffers.c.o
+ .debug_aranges
+                0x0000000000000040       0xf0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+ .debug_aranges
+                0x0000000000000130       0xd0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+ .debug_aranges
+                0x0000000000000200      0x130 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader2.c.o
+ .debug_aranges
+                0x0000000000000330      0x130 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+ .debug_aranges
+                0x0000000000000460      0x110 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender2.c.o
+ .debug_aranges
+                0x0000000000000570       0x30 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/gen/Sources/ARSTREAM_Error.c.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000    0x13953
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000      0x221 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Buffers.c.o
+ .debug_info    0x0000000000000221      0xd87 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+ .debug_info    0x0000000000000fa8     0x238f /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+ .debug_info    0x0000000000003337     0x70e8 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader2.c.o
+ .debug_info    0x000000000000a41f     0x318a /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+ .debug_info    0x000000000000d5a9     0x62ff /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender2.c.o
+ .debug_info    0x00000000000138a8       0xab /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/gen/Sources/ARSTREAM_Error.c.o
+
+.debug_abbrev   0x0000000000000000     0x137e
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000       0xd4 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Buffers.c.o
+ .debug_abbrev  0x00000000000000d4      0x294 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+ .debug_abbrev  0x0000000000000368      0x347 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+ .debug_abbrev  0x00000000000006af      0x470 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader2.c.o
+ .debug_abbrev  0x0000000000000b1f      0x3c7 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+ .debug_abbrev  0x0000000000000ee6      0x420 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender2.c.o
+ .debug_abbrev  0x0000000000001306       0x78 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/gen/Sources/ARSTREAM_Error.c.o
+
+.debug_line     0x0000000000000000     0x3478
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000      0x16e /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Buffers.c.o
+ .debug_line    0x000000000000016e      0x404 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+ .debug_line    0x0000000000000572      0x763 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+ .debug_line    0x0000000000000cd5      0xf55 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader2.c.o
+ .debug_line    0x0000000000001c2a      0x854 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+ .debug_line    0x000000000000247e      0xf44 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender2.c.o
+ .debug_line    0x00000000000033c2       0xb6 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/gen/Sources/ARSTREAM_Error.c.o
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000     0x396a
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x374 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Buffers.c.o
+                                        0x3b5 (size before relaxing)
+ .debug_str     0x0000000000000374      0x641 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+                                        0x79d (size before relaxing)
+ .debug_str     0x00000000000009b5      0xd24 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+                                       0x14d8 (size before relaxing)
+ .debug_str     0x00000000000016d9     0x142a /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader2.c.o
+                                       0x1b78 (size before relaxing)
+ .debug_str     0x0000000000002b03      0x7f1 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+                                       0x1833 (size before relaxing)
+ .debug_str     0x00000000000032f4      0x62c /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender2.c.o
+                                       0x16f5 (size before relaxing)
+ .debug_str     0x0000000000003920       0x4a /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/gen/Sources/ARSTREAM_Error.c.o
+                                        0x1d5 (size before relaxing)
+
+.debug_loc      0x0000000000000000    0x16385
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000      0x218 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Buffers.c.o
+ .debug_loc     0x0000000000000218      0xb8b /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+ .debug_loc     0x0000000000000da3     0x1e3c /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+ .debug_loc     0x0000000000002bdf     0x85a5 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader2.c.o
+ .debug_loc     0x000000000000b184     0x32ef /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+ .debug_loc     0x000000000000e473     0x7ed9 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender2.c.o
+ .debug_loc     0x000000000001634c       0x39 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/gen/Sources/ARSTREAM_Error.c.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000     0x34d0
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000       0x30 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Buffers.c.o
+ .debug_ranges  0x0000000000000030      0x160 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+ .debug_ranges  0x0000000000000190      0x5a0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+ .debug_ranges  0x0000000000000730     0x1410 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader2.c.o
+ .debug_ranges  0x0000000000001b40      0x770 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+ .debug_ranges  0x00000000000022b0     0x1200 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender2.c.o
+ .debug_ranges  0x00000000000034b0       0x20 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/gen/Sources/ARSTREAM_Error.c.o
+
+.debug_macro
+ *(.debug_macro)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(/home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream/libarstream.so elf64-x86-64)

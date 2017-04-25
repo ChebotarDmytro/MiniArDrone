@@ -1,0 +1,1156 @@
+
+As-needed library included to satisfy reference by file (symbol)
+
+libarsal.so                   /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o (ARSAL_Mutex_Destroy)
+libm.so.6                     /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o (log@@GLIBC_2.2.5)
+libpthread.so.0               /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o (__errno_location@@GLIBC_2.2.5)
+libc.so.6                     /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o (fopen@@GLIBC_2.2.5)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/crtbeginS.o
+ .text.unlikely
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/crtbeginS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/crtbeginS.o
+ .text          0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/gen/Sources/arstream2_error.c.o
+ .data          0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/gen/Sources/arstream2_error.c.o
+ .bss           0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/gen/Sources/arstream2_error.c.o
+ .text.unlikely.ARSTREAM2_Error_ToString
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/gen/Sources/arstream2_error.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/gen/Sources/arstream2_error.c.o
+ .text          0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+ .data          0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+ .bss           0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+ .text.unlikely.ARSTREAM2_H264Filter_resetCurrentAu
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+ .text.unlikely.ARSTREAM2_H264Filter_enqueueCurrentAu
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+ .text.unlikely.ARSTREAM2_H264Filter_RtpReceiverNaluCallback
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+ .text.unlikely.ARSTREAM2_H264Filter_GetSpsPps
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+ .text.unlikely.ARSTREAM2_H264Filter_RunFilterThread
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+ .text.unlikely.ARSTREAM2_H264Filter_Start
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+ .text.unlikely.ARSTREAM2_H264Filter_Pause
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+ .text.unlikely.ARSTREAM2_H264Filter_Stop
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+ .text.unlikely.ARSTREAM2_H264Filter_Init
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+ .text.unlikely.ARSTREAM2_H264Filter_Free
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+ .text          0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .data          0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .bss           0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .text.unlikely.readBits
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .text.unlikely.ARSTREAM2_H264Parser_ParseFillerData
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .text.unlikely.ARSTREAM2_H264Parser_StartcodeMatch_file.isra.7
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .text.unlikely.skipBytes
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .text.unlikely.ARSTREAM2_H264Parser_ParseAud
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .text.unlikely.readBits_expGolomb_ue.constprop.9
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .text.unlikely.readBits_expGolomb_se.constprop.8
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .text.unlikely.ARSTREAM2_H264Parser_ParseHrdParams
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .text.unlikely.ARSTREAM2_H264Parser_ParseSlice
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .text.unlikely.ARSTREAM2_H264Parser_ParseScalingList
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .text.unlikely.ARSTREAM2_H264Parser_ParsePps
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .text.unlikely.ARSTREAM2_H264Parser_ParseVui
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .text.unlikely.ARSTREAM2_H264Parser_ParseSps
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .text.unlikely.ARSTREAM2_H264Parser_ParseSeiPayload_picTiming.isra.5
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .text.unlikely.ARSTREAM2_H264Parser_ParseSei
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .text.unlikely.ARSTREAM2_H264Parser_ParseNalu
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .text.unlikely.ARSTREAM2_H264Parser_ReadNextNalu_file
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .text.unlikely.ARSTREAM2_H264Parser_ReadNextNalu_buffer
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .text.unlikely.ARSTREAM2_H264Parser_SetupNalu_buffer
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .text.unlikely.ARSTREAM2_H264Parser_GetLastNaluType
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .text.unlikely.ARSTREAM2_H264Parser_GetSliceInfo
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .text.unlikely.ARSTREAM2_H264Parser_GetUserDataSeiCount
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .text.unlikely.ARSTREAM2_H264Parser_GetUserDataSei
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .text.unlikely.ARSTREAM2_H264Parser_GetSpsPpsContext
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .text.unlikely.ARSTREAM2_H264Parser_GetSliceContext
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .text.unlikely.ARSTREAM2_H264Parser_Init
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .text.unlikely.ARSTREAM2_H264Parser_Free
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .text          0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_sei.c.o
+ .data          0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_sei.c.o
+ .bss           0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_sei.c.o
+ .text.unlikely.ARSTREAM2_H264Sei_SerializeUserDataParrotStreamingV1
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_sei.c.o
+ .text.unlikely.ARSTREAM2_H264Sei_DeserializeUserDataParrotStreamingV1
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_sei.c.o
+ .text.unlikely.ARSTREAM2_H264Sei_IsUserDataParrotStreamingV1
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_sei.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_sei.c.o
+ .text          0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+ .data          0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+ .bss           0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+ .text.unlikely.writeBits
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+ .text.unlikely.writeBits_expGolomb_ue.constprop.7
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+ .text.unlikely.writeBits_expGolomb_se.constprop.6
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+ .text.unlikely.ARSTREAM2_H264Writer_WriteSliceHeader
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+ .text.unlikely.ARSTREAM2_H264Writer_WriteSeiNalu
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+ .text.unlikely.ARSTREAM2_H264Writer_WriteSkippedPSliceNalu
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+ .text.unlikely.ARSTREAM2_H264Writer_WriteGrayISliceNalu
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+ .text.unlikely.ARSTREAM2_H264Writer_SetSpsPpsContext
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+ .text.unlikely.ARSTREAM2_H264Writer_Init
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+ .text.unlikely.ARSTREAM2_H264Writer_Free
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+ .text          0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+ .data          0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+ .bss           0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+ .text.unlikely.ARSTREAM2_RtpReceiver_CheckBufferSize
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+ .text.unlikely.ARSTREAM2_RtpReceiver_RtpResender_NaluCallback
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+ .text.unlikely.ARSTREAM2_RtpReceiver_ResendNalu
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+ .text.unlikely.ARSTREAM2_RtpReceiver_OutputNalu
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+ .text.unlikely.ARSTREAM2_RtpReceiver_New
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+ .text.unlikely.ARSTREAM2_RtpReceiver_InvalidateNaluBuffer
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+ .text.unlikely.ARSTREAM2_RtpReceiver_Stop
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+ .text.unlikely.ARSTREAM2_RtpReceiver_Delete
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+ .text.unlikely.ARSTREAM2_RtpReceiver_RunStreamThread
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+ .text.unlikely.ARSTREAM2_RtpReceiver_RunControlThread
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+ .text.unlikely.ARSTREAM2_RtpReceiver_GetNaluCallbackUserPtr
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+ .text.unlikely.ARSTREAM2_RtpReceiver_GetMonitoring
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+ .text.unlikely.ARSTREAM2_RtpReceiver_RtpResender_New
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+ .text.unlikely.ARSTREAM2_RtpReceiver_RtpResender_Stop
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+ .text.unlikely.ARSTREAM2_RtpReceiver_RtpResender_Delete
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+ .text.unlikely.ARSTREAM2_RtpReceiver_RtpResender_RunStreamThread
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+ .text.unlikely.ARSTREAM2_RtpReceiver_RtpResender_RunControlThread
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+ .text          0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+ .data          0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+ .bss           0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+ .text.unlikely.ARSTREAM2_RtpSender_UpdateMonitoring
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+ .text.unlikely.ARSTREAM2_RtpSender_DequeueNalu
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+ .text.unlikely.ARSTREAM2_RtpSender_SendData
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+ .text.unlikely.ARSTREAM2_RtpSender_FlushNaluFifo.part.0
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+ .text.unlikely.ARSTREAM2_RtpSender_New
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+ .text.unlikely.ARSTREAM2_RtpSender_Stop
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+ .text.unlikely.ARSTREAM2_RtpSender_Delete
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+ .text.unlikely.ARSTREAM2_RtpSender_SendNewNalu
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+ .text.unlikely.ARSTREAM2_RtpSender_SendNNewNalu
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+ .text.unlikely.ARSTREAM2_RtpSender_FlushNaluQueue
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+ .text.unlikely.ARSTREAM2_RtpSender_RunStreamThread
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+ .text.unlikely.ARSTREAM2_RtpSender_RunControlThread
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+ .text.unlikely.ARSTREAM2_RtpSender_GetAuCallbackUserPtr
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+ .text.unlikely.ARSTREAM2_RtpSender_GetNaluCallbackUserPtr
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+ .text.unlikely.ARSTREAM2_RtpSender_GetMonitoring
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+ .text          0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+ .data          0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+ .bss           0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+ .text.unlikely.ARSTREAM2_StreamReceiver_Init
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+ .text.unlikely.ARSTREAM2_StreamReceiver_Free
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+ .text.unlikely.ARSTREAM2_StreamReceiver_RunFilterThread
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+ .text.unlikely.ARSTREAM2_StreamReceiver_RunStreamThread
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+ .text.unlikely.ARSTREAM2_StreamReceiver_RunControlThread
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+ .text.unlikely.ARSTREAM2_StreamReceiver_StartFilter
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+ .text.unlikely.ARSTREAM2_StreamReceiver_PauseFilter
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+ .text.unlikely.ARSTREAM2_StreamReceiver_Stop
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+ .text.unlikely.ARSTREAM2_StreamReceiver_GetSpsPps
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+ .text.unlikely.ARSTREAM2_StreamReceiver_InitResender
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+ .text.unlikely.ARSTREAM2_StreamReceiver_FreeResender
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+ .text.unlikely.ARSTREAM2_StreamReceiver_RunResenderStreamThread
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+ .text.unlikely.ARSTREAM2_StreamReceiver_RunResenderControlThread
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+ .text.unlikely.ARSTREAM2_StreamReceiver_StopResender
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/crtendS.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/crtendS.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/crtendS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/crtendS.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/5/crtbeginS.o
+LOAD /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/gen/Sources/arstream2_error.c.o
+LOAD /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+LOAD /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+LOAD /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_sei.c.o
+LOAD /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+LOAD /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+LOAD /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+LOAD /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+LOAD /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/staging/usr/lib/libarsal.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/librt.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/5/libstdc++.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/libm.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libm.so.6
+LOAD /usr/lib/x86_64-linux-gnu/libmvec_nonshared.a
+LOAD /lib/x86_64-linux-gnu/libmvec.so.1
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/5/libgcc_s.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/libpthread.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libpthread.so.0
+LOAD /usr/lib/x86_64-linux-gnu/libpthread_nonshared.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/libc.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libc.so.6
+LOAD /usr/lib/x86_64-linux-gnu/libc_nonshared.a
+LOAD /lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/5/libgcc_s.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/5/crtendS.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
+                0x00000000000001c8                . = (0x0 + SIZEOF_HEADERS)
+
+.note.gnu.build-id
+                0x00000000000001c8       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x00000000000001c8       0x24 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+
+.hash
+ *(.hash)
+
+.gnu.hash       0x00000000000001f0      0x274
+ *(.gnu.hash)
+ .gnu.hash      0x00000000000001f0      0x274 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+
+.dynsym         0x0000000000000468      0xc30
+ *(.dynsym)
+ .dynsym        0x0000000000000468      0xc30 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+
+.dynstr         0x0000000000001098      0xd2a
+ *(.dynstr)
+ .dynstr        0x0000000000001098      0xd2a /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version    0x0000000000001dc2      0x104
+ *(.gnu.version)
+ .gnu.version   0x0000000000001dc2      0x104 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version_d  0x0000000000001ec8        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x0000000000001ec8        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version_r  0x0000000000001ec8       0x90
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x0000000000001ec8       0x90 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+
+.rela.dyn       0x0000000000001f58      0x570
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ .rela.text     0x0000000000001f58        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ .rela.data.rel.local
+                0x0000000000001f58       0x18 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ .rela.data.rel.ro.local
+                0x0000000000001f70      0x498 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ .rela.got      0x0000000000002408       0x90 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ *(.rela.ldata .rela.ldata.* .rela.gnu.linkonce.l.*)
+ *(.rela.lbss .rela.lbss.* .rela.gnu.linkonce.lb.*)
+ *(.rela.lrodata .rela.lrodata.* .rela.gnu.linkonce.lr.*)
+ *(.rela.ifunc)
+ .rela.ifunc    0x0000000000002498        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ .rela.fini_array
+                0x0000000000002498       0x18 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ .rela.init_array
+                0x00000000000024b0       0x18 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+
+.rela.plt       0x00000000000024c8      0x8a0
+ *(.rela.plt)
+ .rela.plt      0x00000000000024c8      0x8a0 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ *(.rela.iplt)
+
+.init           0x0000000000002d68       0x1a
+ *(SORT(.init))
+ .init          0x0000000000002d68       0x15 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+                0x0000000000002d68                _init
+ .init          0x0000000000002d7d        0x5 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
+
+.plt            0x0000000000002d90      0x5d0
+ *(.plt)
+ .plt           0x0000000000002d90      0x5d0 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ *(.iplt)
+
+.plt.got        0x0000000000003360       0x10
+ *(.plt.got)
+ .plt.got       0x0000000000003360       0x10 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+
+.plt.bnd
+ *(.plt.bnd)
+
+.text           0x0000000000003370    0x2d250
+ *(.text.unlikely .text.*_unlikely .text.unlikely.*)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x0000000000003370      0x100 /usr/lib/gcc/x86_64-linux-gnu/5/crtbeginS.o
+ .text.ARSTREAM2_Error_ToString
+                0x0000000000003470       0xd8 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/gen/Sources/arstream2_error.c.o
+                0x0000000000003470                ARSTREAM2_Error_ToString
+ *fill*         0x0000000000003548        0x8 
+ .text.ARSTREAM2_H264Filter_resetCurrentAu
+                0x0000000000003550       0xa7 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+ *fill*         0x00000000000035f7        0x9 
+ .text.ARSTREAM2_H264Filter_enqueueCurrentAu
+                0x0000000000003600      0x4d7 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+ *fill*         0x0000000000003ad7        0x9 
+ .text.ARSTREAM2_H264Filter_RtpReceiverNaluCallback
+                0x0000000000003ae0     0x2ff1 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+                0x0000000000003ae0                ARSTREAM2_H264Filter_RtpReceiverNaluCallback
+ *fill*         0x0000000000006ad1        0xf 
+ .text.ARSTREAM2_H264Filter_GetSpsPps
+                0x0000000000006ae0      0x11b /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+                0x0000000000006ae0                ARSTREAM2_H264Filter_GetSpsPps
+ *fill*         0x0000000000006bfb        0x5 
+ .text.ARSTREAM2_H264Filter_RunFilterThread
+                0x0000000000006c00      0x172 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+                0x0000000000006c00                ARSTREAM2_H264Filter_RunFilterThread
+ *fill*         0x0000000000006d72        0xe 
+ .text.ARSTREAM2_H264Filter_Start
+                0x0000000000006d80      0x254 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+                0x0000000000006d80                ARSTREAM2_H264Filter_Start
+ *fill*         0x0000000000006fd4        0xc 
+ .text.ARSTREAM2_H264Filter_Pause
+                0x0000000000006fe0      0x154 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+                0x0000000000006fe0                ARSTREAM2_H264Filter_Pause
+ *fill*         0x0000000000007134        0xc 
+ .text.ARSTREAM2_H264Filter_Stop
+                0x0000000000007140       0xfc /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+                0x0000000000007140                ARSTREAM2_H264Filter_Stop
+ *fill*         0x000000000000723c        0x4 
+ .text.ARSTREAM2_H264Filter_Init
+                0x0000000000007240      0xb2d /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+                0x0000000000007240                ARSTREAM2_H264Filter_Init
+ *fill*         0x0000000000007d6d        0x3 
+ .text.ARSTREAM2_H264Filter_Free
+                0x0000000000007d70      0x257 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+                0x0000000000007d70                ARSTREAM2_H264Filter_Free
+ *fill*         0x0000000000007fc7        0x9 
+ .text.readBits
+                0x0000000000007fd0      0x1e0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .text.ARSTREAM2_H264Parser_ParseFillerData
+                0x00000000000081b0       0xb9 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ *fill*         0x0000000000008269        0x7 
+ .text.ARSTREAM2_H264Parser_StartcodeMatch_file.isra.7
+                0x0000000000008270      0x17c /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ *fill*         0x00000000000083ec        0x4 
+ .text.skipBytes
+                0x00000000000083f0      0x1a0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .text.ARSTREAM2_H264Parser_ParseAud
+                0x0000000000008590      0x490 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .text.readBits_expGolomb_ue.constprop.9
+                0x0000000000008a20      0x369 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ *fill*         0x0000000000008d89        0x7 
+ .text.readBits_expGolomb_se.constprop.8
+                0x0000000000008d90      0x386 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ *fill*         0x0000000000009116        0xa 
+ .text.ARSTREAM2_H264Parser_ParseHrdParams
+                0x0000000000009120     0x109b /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ *fill*         0x000000000000a1bb        0x5 
+ .text.ARSTREAM2_H264Parser_ParseSlice
+                0x000000000000a1c0     0x3cef /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ *fill*         0x000000000000deaf        0x1 
+ .text.ARSTREAM2_H264Parser_ParseScalingList
+                0x000000000000deb0      0x551 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ *fill*         0x000000000000e401        0xf 
+ .text.ARSTREAM2_H264Parser_ParsePps
+                0x000000000000e410     0x2aae /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ *fill*         0x0000000000010ebe        0x2 
+ .text.ARSTREAM2_H264Parser_ParseVui
+                0x0000000000010ec0     0x28c8 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ *fill*         0x0000000000013788        0x8 
+ .text.ARSTREAM2_H264Parser_ParseSps
+                0x0000000000013790     0x2eb5 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ *fill*         0x0000000000016645        0xb 
+ .text.ARSTREAM2_H264Parser_ParseSeiPayload_picTiming.isra.5
+                0x0000000000016650     0x26f6 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ *fill*         0x0000000000018d46        0xa 
+ .text.ARSTREAM2_H264Parser_ParseSei
+                0x0000000000018d50     0x2765 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ *fill*         0x000000000001b4b5        0xb 
+ .text.ARSTREAM2_H264Parser_ParseNalu
+                0x000000000001b4c0      0x42b /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+                0x000000000001b4c0                ARSTREAM2_H264Parser_ParseNalu
+ *fill*         0x000000000001b8eb        0x5 
+ .text.ARSTREAM2_H264Parser_ReadNextNalu_file
+                0x000000000001b8f0      0x616 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+                0x000000000001b8f0                ARSTREAM2_H264Parser_ReadNextNalu_file
+ *fill*         0x000000000001bf06        0xa 
+ .text.ARSTREAM2_H264Parser_ReadNextNalu_buffer
+                0x000000000001bf10      0x464 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+                0x000000000001bf10                ARSTREAM2_H264Parser_ReadNextNalu_buffer
+ *fill*         0x000000000001c374        0xc 
+ .text.ARSTREAM2_H264Parser_SetupNalu_buffer
+                0x000000000001c380      0x185 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+                0x000000000001c380                ARSTREAM2_H264Parser_SetupNalu_buffer
+ *fill*         0x000000000001c505        0xb 
+ .text.ARSTREAM2_H264Parser_GetLastNaluType
+                0x000000000001c510       0xc9 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+                0x000000000001c510                ARSTREAM2_H264Parser_GetLastNaluType
+ *fill*         0x000000000001c5d9        0x7 
+ .text.ARSTREAM2_H264Parser_GetSliceInfo
+                0x000000000001c5e0      0x1b2 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+                0x000000000001c5e0                ARSTREAM2_H264Parser_GetSliceInfo
+ *fill*         0x000000000001c792        0xe 
+ .text.ARSTREAM2_H264Parser_GetUserDataSeiCount
+                0x000000000001c7a0       0xcf /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+                0x000000000001c7a0                ARSTREAM2_H264Parser_GetUserDataSeiCount
+ *fill*         0x000000000001c86f        0x1 
+ .text.ARSTREAM2_H264Parser_GetUserDataSei
+                0x000000000001c870      0x1b5 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+                0x000000000001c870                ARSTREAM2_H264Parser_GetUserDataSei
+ *fill*         0x000000000001ca25        0xb 
+ .text.ARSTREAM2_H264Parser_GetSpsPpsContext
+                0x000000000001ca30      0x17b /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+                0x000000000001ca30                ARSTREAM2_H264Parser_GetSpsPpsContext
+ *fill*         0x000000000001cbab        0x5 
+ .text.ARSTREAM2_H264Parser_GetSliceContext
+                0x000000000001cbb0      0x162 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+                0x000000000001cbb0                ARSTREAM2_H264Parser_GetSliceContext
+ *fill*         0x000000000001cd12        0xe 
+ .text.ARSTREAM2_H264Parser_Init
+                0x000000000001cd20      0x19f /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+                0x000000000001cd20                ARSTREAM2_H264Parser_Init
+ *fill*         0x000000000001cebf        0x1 
+ .text.ARSTREAM2_H264Parser_Free
+                0x000000000001cec0       0x65 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+                0x000000000001cec0                ARSTREAM2_H264Parser_Free
+ *fill*         0x000000000001cf25        0xb 
+ .text.ARSTREAM2_H264Sei_SerializeUserDataParrotStreamingV1
+                0x000000000001cf30       0xaa /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_sei.c.o
+                0x000000000001cf30                ARSTREAM2_H264Sei_SerializeUserDataParrotStreamingV1
+ *fill*         0x000000000001cfda        0x6 
+ .text.ARSTREAM2_H264Sei_DeserializeUserDataParrotStreamingV1
+                0x000000000001cfe0       0xb6 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_sei.c.o
+                0x000000000001cfe0                ARSTREAM2_H264Sei_DeserializeUserDataParrotStreamingV1
+ *fill*         0x000000000001d096        0xa 
+ .text.ARSTREAM2_H264Sei_IsUserDataParrotStreamingV1
+                0x000000000001d0a0       0x56 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_sei.c.o
+                0x000000000001d0a0                ARSTREAM2_H264Sei_IsUserDataParrotStreamingV1
+ *fill*         0x000000000001d0f6        0xa 
+ .text.writeBits
+                0x000000000001d100       0xf6 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+ *fill*         0x000000000001d1f6        0xa 
+ .text.writeBits_expGolomb_ue.constprop.7
+                0x000000000001d200      0x375 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+ *fill*         0x000000000001d575        0xb 
+ .text.writeBits_expGolomb_se.constprop.6
+                0x000000000001d580      0x579 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+ *fill*         0x000000000001daf9        0x7 
+ .text.ARSTREAM2_H264Writer_WriteSliceHeader
+                0x000000000001db00     0x3272 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+ *fill*         0x0000000000020d72        0xe 
+ .text.ARSTREAM2_H264Writer_WriteSeiNalu
+                0x0000000000020d80     0x2f69 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+                0x0000000000020d80                ARSTREAM2_H264Writer_WriteSeiNalu
+ *fill*         0x0000000000023ce9        0x7 
+ .text.ARSTREAM2_H264Writer_WriteSkippedPSliceNalu
+                0x0000000000023cf0      0x863 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+                0x0000000000023cf0                ARSTREAM2_H264Writer_WriteSkippedPSliceNalu
+ *fill*         0x0000000000024553        0xd 
+ .text.ARSTREAM2_H264Writer_WriteGrayISliceNalu
+                0x0000000000024560      0xa2d /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+                0x0000000000024560                ARSTREAM2_H264Writer_WriteGrayISliceNalu
+ *fill*         0x0000000000024f8d        0x3 
+ .text.ARSTREAM2_H264Writer_SetSpsPpsContext
+                0x0000000000024f90       0xb6 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+                0x0000000000024f90                ARSTREAM2_H264Writer_SetSpsPpsContext
+ *fill*         0x0000000000025046        0xa 
+ .text.ARSTREAM2_H264Writer_Init
+                0x0000000000025050       0x57 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+                0x0000000000025050                ARSTREAM2_H264Writer_Init
+ *fill*         0x00000000000250a7        0x9 
+ .text.ARSTREAM2_H264Writer_Free
+                0x00000000000250b0       0x1e /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+                0x00000000000250b0                ARSTREAM2_H264Writer_Free
+ *fill*         0x00000000000250ce        0x2 
+ .text.ARSTREAM2_RtpReceiver_CheckBufferSize
+                0x00000000000250d0       0xf1 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+ *fill*         0x00000000000251c1        0xf 
+ .text.ARSTREAM2_RtpReceiver_RtpResender_NaluCallback
+                0x00000000000251d0       0x42 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+ *fill*         0x0000000000025212        0xe 
+ .text.ARSTREAM2_RtpReceiver_ResendNalu
+                0x0000000000025220      0x60e /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+ *fill*         0x000000000002582e        0x2 
+ .text.ARSTREAM2_RtpReceiver_OutputNalu
+                0x0000000000025830       0xc5 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+ *fill*         0x00000000000258f5        0xb 
+ .text.ARSTREAM2_RtpReceiver_New
+                0x0000000000025900      0x7fd /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+                0x0000000000025900                ARSTREAM2_RtpReceiver_New
+ *fill*         0x00000000000260fd        0x3 
+ .text.ARSTREAM2_RtpReceiver_InvalidateNaluBuffer
+                0x0000000000026100      0x181 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+                0x0000000000026100                ARSTREAM2_RtpReceiver_InvalidateNaluBuffer
+ *fill*         0x0000000000026281        0xf 
+ .text.ARSTREAM2_RtpReceiver_Stop
+                0x0000000000026290      0x14f /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+                0x0000000000026290                ARSTREAM2_RtpReceiver_Stop
+ *fill*         0x00000000000263df        0x1 
+ .text.ARSTREAM2_RtpReceiver_Delete
+                0x00000000000263e0      0x470 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+                0x00000000000263e0                ARSTREAM2_RtpReceiver_Delete
+ .text.ARSTREAM2_RtpReceiver_RunStreamThread
+                0x0000000000026850     0x21af /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+                0x0000000000026850                ARSTREAM2_RtpReceiver_RunStreamThread
+ *fill*         0x00000000000289ff        0x1 
+ .text.ARSTREAM2_RtpReceiver_RunControlThread
+                0x0000000000028a00      0xcc0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+                0x0000000000028a00                ARSTREAM2_RtpReceiver_RunControlThread
+ .text.ARSTREAM2_RtpReceiver_GetNaluCallbackUserPtr
+                0x00000000000296c0       0x13 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+                0x00000000000296c0                ARSTREAM2_RtpReceiver_GetNaluCallbackUserPtr
+ *fill*         0x00000000000296d3        0xd 
+ .text.ARSTREAM2_RtpReceiver_GetMonitoring
+                0x00000000000296e0      0x4e3 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+                0x00000000000296e0                ARSTREAM2_RtpReceiver_GetMonitoring
+ *fill*         0x0000000000029bc3        0xd 
+ .text.ARSTREAM2_RtpReceiver_RtpResender_New
+                0x0000000000029bd0      0x1dd /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+                0x0000000000029bd0                ARSTREAM2_RtpReceiver_RtpResender_New
+ *fill*         0x0000000000029dad        0x3 
+ .text.ARSTREAM2_RtpReceiver_RtpResender_Stop
+                0x0000000000029db0       0x42 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+                0x0000000000029db0                ARSTREAM2_RtpReceiver_RtpResender_Stop
+ *fill*         0x0000000000029df2        0xe 
+ .text.ARSTREAM2_RtpReceiver_RtpResender_Delete
+                0x0000000000029e00      0x37f /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+                0x0000000000029e00                ARSTREAM2_RtpReceiver_RtpResender_Delete
+ *fill*         0x000000000002a17f        0x1 
+ .text.ARSTREAM2_RtpReceiver_RtpResender_RunStreamThread
+                0x000000000002a180       0x13 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+                0x000000000002a180                ARSTREAM2_RtpReceiver_RtpResender_RunStreamThread
+ *fill*         0x000000000002a193        0xd 
+ .text.ARSTREAM2_RtpReceiver_RtpResender_RunControlThread
+                0x000000000002a1a0       0x13 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+                0x000000000002a1a0                ARSTREAM2_RtpReceiver_RtpResender_RunControlThread
+ *fill*         0x000000000002a1b3        0xd 
+ .text.ARSTREAM2_RtpSender_UpdateMonitoring
+                0x000000000002a1c0      0x19a /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+ *fill*         0x000000000002a35a        0x6 
+ .text.ARSTREAM2_RtpSender_DequeueNalu
+                0x000000000002a360      0x13f /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+ *fill*         0x000000000002a49f        0x1 
+ .text.ARSTREAM2_RtpSender_SendData
+                0x000000000002a4a0      0xd32 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+ *fill*         0x000000000002b1d2        0xe 
+ .text.ARSTREAM2_RtpSender_FlushNaluFifo.part.0
+                0x000000000002b1e0       0xd2 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+ *fill*         0x000000000002b2b2        0xe 
+ .text.ARSTREAM2_RtpSender_New
+                0x000000000002b2c0      0x76c /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+                0x000000000002b2c0                ARSTREAM2_RtpSender_New
+ *fill*         0x000000000002ba2c        0x4 
+ .text.ARSTREAM2_RtpSender_Stop
+                0x000000000002ba30       0x42 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+                0x000000000002ba30                ARSTREAM2_RtpSender_Stop
+ *fill*         0x000000000002ba72        0xe 
+ .text.ARSTREAM2_RtpSender_Delete
+                0x000000000002ba80      0x1f4 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+                0x000000000002ba80                ARSTREAM2_RtpSender_Delete
+ *fill*         0x000000000002bc74        0xc 
+ .text.ARSTREAM2_RtpSender_SendNewNalu
+                0x000000000002bc80      0x20e /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+                0x000000000002bc80                ARSTREAM2_RtpSender_SendNewNalu
+ *fill*         0x000000000002be8e        0x2 
+ .text.ARSTREAM2_RtpSender_SendNNewNalu
+                0x000000000002be90      0x2b9 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+                0x000000000002be90                ARSTREAM2_RtpSender_SendNNewNalu
+ *fill*         0x000000000002c149        0x7 
+ .text.ARSTREAM2_RtpSender_FlushNaluQueue
+                0x000000000002c150       0x26 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+                0x000000000002c150                ARSTREAM2_RtpSender_FlushNaluQueue
+ *fill*         0x000000000002c176        0xa 
+ .text.ARSTREAM2_RtpSender_RunStreamThread
+                0x000000000002c180     0x1f28 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+                0x000000000002c180                ARSTREAM2_RtpSender_RunStreamThread
+ *fill*         0x000000000002e0a8        0x8 
+ .text.ARSTREAM2_RtpSender_RunControlThread
+                0x000000000002e0b0      0xba9 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+                0x000000000002e0b0                ARSTREAM2_RtpSender_RunControlThread
+ *fill*         0x000000000002ec59        0x7 
+ .text.ARSTREAM2_RtpSender_GetAuCallbackUserPtr
+                0x000000000002ec60       0x13 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+                0x000000000002ec60                ARSTREAM2_RtpSender_GetAuCallbackUserPtr
+ *fill*         0x000000000002ec73        0xd 
+ .text.ARSTREAM2_RtpSender_GetNaluCallbackUserPtr
+                0x000000000002ec80       0x13 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+                0x000000000002ec80                ARSTREAM2_RtpSender_GetNaluCallbackUserPtr
+ *fill*         0x000000000002ec93        0xd 
+ .text.ARSTREAM2_RtpSender_GetMonitoring
+                0x000000000002eca0      0x6a1 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+                0x000000000002eca0                ARSTREAM2_RtpSender_GetMonitoring
+ *fill*         0x000000000002f341        0xf 
+ .text.ARSTREAM2_StreamReceiver_Init
+                0x000000000002f350      0x4a4 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+                0x000000000002f350                ARSTREAM2_StreamReceiver_Init
+ *fill*         0x000000000002f7f4        0xc 
+ .text.ARSTREAM2_StreamReceiver_Free
+                0x000000000002f800      0x202 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+                0x000000000002f800                ARSTREAM2_StreamReceiver_Free
+ *fill*         0x000000000002fa02        0xe 
+ .text.ARSTREAM2_StreamReceiver_RunFilterThread
+                0x000000000002fa10       0xca /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+                0x000000000002fa10                ARSTREAM2_StreamReceiver_RunFilterThread
+ *fill*         0x000000000002fada        0x6 
+ .text.ARSTREAM2_StreamReceiver_RunStreamThread
+                0x000000000002fae0       0xca /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+                0x000000000002fae0                ARSTREAM2_StreamReceiver_RunStreamThread
+ *fill*         0x000000000002fbaa        0x6 
+ .text.ARSTREAM2_StreamReceiver_RunControlThread
+                0x000000000002fbb0       0xca /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+                0x000000000002fbb0                ARSTREAM2_StreamReceiver_RunControlThread
+ *fill*         0x000000000002fc7a        0x6 
+ .text.ARSTREAM2_StreamReceiver_StartFilter
+                0x000000000002fc80      0x176 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+                0x000000000002fc80                ARSTREAM2_StreamReceiver_StartFilter
+ *fill*         0x000000000002fdf6        0xa 
+ .text.ARSTREAM2_StreamReceiver_PauseFilter
+                0x000000000002fe00      0x179 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+                0x000000000002fe00                ARSTREAM2_StreamReceiver_PauseFilter
+ *fill*         0x000000000002ff79        0x7 
+ .text.ARSTREAM2_StreamReceiver_Stop
+                0x000000000002ff80      0x172 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+                0x000000000002ff80                ARSTREAM2_StreamReceiver_Stop
+ *fill*         0x00000000000300f2        0xe 
+ .text.ARSTREAM2_StreamReceiver_GetSpsPps
+                0x0000000000030100       0xcb /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+                0x0000000000030100                ARSTREAM2_StreamReceiver_GetSpsPps
+ *fill*         0x00000000000301cb        0x5 
+ .text.ARSTREAM2_StreamReceiver_InitResender
+                0x00000000000301d0      0x2e5 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+                0x00000000000301d0                ARSTREAM2_StreamReceiver_InitResender
+ *fill*         0x00000000000304b5        0xb 
+ .text.ARSTREAM2_StreamReceiver_FreeResender
+                0x00000000000304c0       0xcc /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+                0x00000000000304c0                ARSTREAM2_StreamReceiver_FreeResender
+ *fill*         0x000000000003058c        0x4 
+ .text.ARSTREAM2_StreamReceiver_RunResenderStreamThread
+                0x0000000000030590        0x5 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+                0x0000000000030590                ARSTREAM2_StreamReceiver_RunResenderStreamThread
+ *fill*         0x0000000000030595        0xb 
+ .text.ARSTREAM2_StreamReceiver_RunResenderControlThread
+                0x00000000000305a0        0x5 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+                0x00000000000305a0                ARSTREAM2_StreamReceiver_RunResenderControlThread
+ *fill*         0x00000000000305a5        0xb 
+ .text.ARSTREAM2_StreamReceiver_StopResender
+                0x00000000000305b0       0x10 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+                0x00000000000305b0                ARSTREAM2_StreamReceiver_StopResender
+ *(.gnu.warning)
+
+.fini           0x00000000000305c0        0x9
+ *(SORT(.fini))
+ .fini          0x00000000000305c0        0x4 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+                0x00000000000305c0                _fini
+ .fini          0x00000000000305c4        0x5 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
+                [!provide]                        PROVIDE (__etext, .)
+                [!provide]                        PROVIDE (_etext, .)
+                [!provide]                        PROVIDE (etext, .)
+
+.rodata         0x00000000000305e0     0x70ae
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.str1.1
+                0x00000000000305e0       0xc1 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/gen/Sources/arstream2_error.c.o
+ *fill*         0x00000000000306a1        0x7 
+ .rodata.str1.8
+                0x00000000000306a8       0x2a /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/gen/Sources/arstream2_error.c.o
+ *fill*         0x00000000000306d2        0x2 
+ .rodata        0x00000000000306d4       0x2c /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/gen/Sources/arstream2_error.c.o
+ .rodata.str1.1
+                0x0000000000030700       0x66 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+                                         0x6d (size before relaxing)
+ *fill*         0x0000000000030766        0x2 
+ .rodata.str1.8
+                0x0000000000030768     0x108f /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+ *fill*         0x00000000000317f7        0x9 
+ .rodata        0x0000000000031800      0x2ad /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+ .rodata.str1.1
+                0x0000000000031aad      0x154 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+                                        0x177 (size before relaxing)
+ *fill*         0x0000000000031c01        0x7 
+ .rodata.str1.8
+                0x0000000000031c08     0x32bb /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+                                       0x334b (size before relaxing)
+ *fill*         0x0000000000034ec3       0x1d 
+ .rodata        0x0000000000034ee0      0x600 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .rodata.cst8   0x00000000000354e0        0x8 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .rodata.cst8   0x00000000000354e8        0x8 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+ .rodata.str1.1
+                0x00000000000354e8       0x74 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+                                         0x7f (size before relaxing)
+ *fill*         0x000000000003555c        0x4 
+ .rodata.str1.8
+                0x0000000000035560      0xeec /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+ *fill*         0x000000000003644c       0x14 
+ .rodata        0x0000000000036460      0x2aa /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+ .rodata.str1.1
+                0x000000000003670a       0x3c /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+                                         0x7b (size before relaxing)
+ *fill*         0x0000000000036746        0x2 
+ .rodata.str1.8
+                0x0000000000036748      0x8f9 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+                                        0xd61 (size before relaxing)
+ *fill*         0x0000000000037041       0x1f 
+ .rodata        0x0000000000037060      0x188 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+ .rodata.cst8   0x00000000000371e8        0x8 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+ .rodata.str1.1
+                0x00000000000371f0       0x19 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+                                         0x22 (size before relaxing)
+ *fill*         0x0000000000037209        0x7 
+ .rodata.str1.8
+                0x0000000000037210      0x228 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+                                        0x2de (size before relaxing)
+ *fill*         0x0000000000037438        0x8 
+ .rodata        0x0000000000037440      0x24e /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr   0x0000000000037690      0x31c
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x0000000000037690      0x31c /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/gen/Sources/arstream2_error.c.o
+                0x0000000000037690                __GNU_EH_FRAME_HDR
+ *(.eh_frame_entry .eh_frame_entry.*)
+
+.eh_frame       0x00000000000379b0     0x3f04
+ *(.eh_frame)
+ .eh_frame      0x00000000000379b0       0x40 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ .eh_frame      0x00000000000379f0       0x18 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/gen/Sources/arstream2_error.c.o
+                                         0x30 (size before relaxing)
+ .eh_frame      0x0000000000037a08      0x818 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+                                        0x820 (size before relaxing)
+ .eh_frame      0x0000000000038220     0x1ff0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+                                       0x1fe0 (size before relaxing)
+ .eh_frame      0x000000000003a210       0x48 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_sei.c.o
+                                         0x58 (size before relaxing)
+ .eh_frame      0x000000000003a258      0x1f0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+                                        0x1f8 (size before relaxing)
+ .eh_frame      0x000000000003a448      0x920 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+                                        0x908 (size before relaxing)
+ .eh_frame      0x000000000003ad68      0x730 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+                                        0x720 (size before relaxing)
+ .eh_frame      0x000000000003b498      0x418 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+                                        0x408 (size before relaxing)
+ .eh_frame      0x000000000003b8b0        0x4 /usr/lib/gcc/x86_64-linux-gnu/5/crtendS.o
+ *(.eh_frame.*)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.gnu_extab
+ *(.gnu_extab*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+                0x000000000023bb48                . = DATA_SEGMENT_ALIGN (0x200000, 0x1000)
+
+.eh_frame
+ *(.eh_frame)
+ *(.eh_frame.*)
+
+.gnu_extab
+ *(.gnu_extab)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array
+ *(.preinit_array)
+
+.init_array     0x000000000023bb48        0x8
+ *(SORT(.init_array.*) SORT(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
+ .init_array    0x000000000023bb48        0x8 /usr/lib/gcc/x86_64-linux-gnu/5/crtbeginS.o
+
+.fini_array     0x000000000023bb50        0x8
+ *(SORT(.fini_array.*) SORT(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
+ .fini_array    0x000000000023bb50        0x8 /usr/lib/gcc/x86_64-linux-gnu/5/crtbeginS.o
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+
+.jcr            0x000000000023bb58        0x8
+ *(.jcr)
+ .jcr           0x000000000023bb58        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/crtbeginS.o
+ .jcr           0x000000000023bb58        0x8 /usr/lib/gcc/x86_64-linux-gnu/5/crtendS.o
+
+.data.rel.ro    0x000000000023bb60      0x260
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ .data.rel.ro.local
+                0x000000000023bb60      0x260 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+
+.dynamic        0x000000000023bdc0      0x200
+ *(.dynamic)
+ .dynamic       0x000000000023bdc0      0x200 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+                0x000000000023bdc0                _DYNAMIC
+
+.got            0x000000000023bfc0       0x30
+ *(.got)
+ .got           0x000000000023bfc0       0x30 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ *(.igot)
+                0x000000000023cfe8                . = DATA_SEGMENT_RELRO_END (., (SIZEOF (.got.plt) >= 0x18)?0x18:0x0)
+
+.got.plt        0x000000000023c000      0x2f8
+ *(.got.plt)
+ .got.plt       0x000000000023c000      0x2f8 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+                0x000000000023c000                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+
+.data           0x000000000023c2f8        0x8
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.rel.local
+                0x000000000023c2f8        0x8 /usr/lib/gcc/x86_64-linux-gnu/5/crtbeginS.o
+                0x000000000023c2f8                __dso_handle
+
+.tm_clone_table
+                0x000000000023c300        0x0
+ .tm_clone_table
+                0x000000000023c300        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/crtbeginS.o
+ .tm_clone_table
+                0x000000000023c300        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/crtendS.o
+
+.data1
+ *(.data1)
+                0x000000000023c300                _edata = .
+                [!provide]                        PROVIDE (edata, .)
+                0x000000000023c300                . = .
+                0x000000000023c300                __bss_start = .
+
+.bss            0x000000000023c300        0x8
+ *(.dynbss)
+ .dynbss        0x000000000023c300        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x000000000023c300        0x1 /usr/lib/gcc/x86_64-linux-gnu/5/crtbeginS.o
+ *(COMMON)
+                0x000000000023c308                . = ALIGN ((. != 0x0)?0x8:0x1)
+ *fill*         0x000000000023c301        0x7 
+
+.lbss
+ *(.dynlbss)
+ *(.lbss .lbss.* .gnu.linkonce.lb.*)
+ *(LARGE_COMMON)
+                0x000000000023c308                . = ALIGN (0x8)
+                0x000000000023c308                . = SEGMENT_START ("ldata-segment", .)
+
+.lrodata
+ *(.lrodata .lrodata.* .gnu.linkonce.lr.*)
+
+.ldata          0x000000000063c308        0x0
+ *(.ldata .ldata.* .gnu.linkonce.l.*)
+                0x000000000063c308                . = ALIGN ((. != 0x0)?0x8:0x1)
+                0x000000000063c308                . = ALIGN (0x8)
+                0x000000000063c308                _end = .
+                [!provide]                        PROVIDE (end, .)
+                0x000000000063c308                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x34
+ *(.comment)
+ .comment       0x0000000000000000       0x34 /usr/lib/gcc/x86_64-linux-gnu/5/crtbeginS.o
+                                         0x35 (size before relaxing)
+ .comment       0x0000000000000034       0x35 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/gen/Sources/arstream2_error.c.o
+ .comment       0x0000000000000034       0x35 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+ .comment       0x0000000000000034       0x35 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .comment       0x0000000000000034       0x35 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_sei.c.o
+ .comment       0x0000000000000034       0x35 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+ .comment       0x0000000000000034       0x35 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+ .comment       0x0000000000000034       0x35 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+ .comment       0x0000000000000034       0x35 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+ .comment       0x0000000000000034       0x35 /usr/lib/gcc/x86_64-linux-gnu/5/crtendS.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x710
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x30 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/gen/Sources/arstream2_error.c.o
+ .debug_aranges
+                0x0000000000000030       0xc0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+ .debug_aranges
+                0x00000000000000f0      0x1d0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .debug_aranges
+                0x00000000000002c0       0x50 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_sei.c.o
+ .debug_aranges
+                0x0000000000000310       0xc0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+ .debug_aranges
+                0x00000000000003d0      0x130 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+ .debug_aranges
+                0x0000000000000500      0x110 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+ .debug_aranges
+                0x0000000000000610      0x100 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000    0x363d7
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000       0xce /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/gen/Sources/arstream2_error.c.o
+ .debug_info    0x00000000000000ce     0x71fa /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+ .debug_info    0x00000000000072c8    0x194fa /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .debug_info    0x00000000000207c2      0x842 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_sei.c.o
+ .debug_info    0x0000000000021004     0x523b /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+ .debug_info    0x000000000002623f     0x734e /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+ .debug_info    0x000000000002d58d     0x6799 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+ .debug_info    0x0000000000033d26     0x26b1 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+
+.debug_abbrev   0x0000000000000000     0x193a
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000       0x93 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/gen/Sources/arstream2_error.c.o
+ .debug_abbrev  0x0000000000000093      0x3cd /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+ .debug_abbrev  0x0000000000000460      0x41b /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .debug_abbrev  0x000000000000087b      0x1da /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_sei.c.o
+ .debug_abbrev  0x0000000000000a55      0x360 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+ .debug_abbrev  0x0000000000000db5      0x488 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+ .debug_abbrev  0x000000000000123d      0x429 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+ .debug_abbrev  0x0000000000001666      0x2d4 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+
+.debug_line     0x0000000000000000     0x8bc5
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000       0xbd /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/gen/Sources/arstream2_error.c.o
+ .debug_line    0x00000000000000bd      0xd72 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+ .debug_line    0x0000000000000e2f     0x322c /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .debug_line    0x000000000000405b      0x202 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_sei.c.o
+ .debug_line    0x000000000000425d     0x2484 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+ .debug_line    0x00000000000066e1     0x1066 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+ .debug_line    0x0000000000007747      0xfd7 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+ .debug_line    0x000000000000871e      0x4a7 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000     0x4c28
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x261 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/gen/Sources/arstream2_error.c.o
+                                        0x26c (size before relaxing)
+ .debug_str     0x0000000000000261     0x1e0a /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+                                       0x20fe (size before relaxing)
+ .debug_str     0x000000000000206b      0x865 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+                                       0x17a2 (size before relaxing)
+ .debug_str     0x00000000000028d0       0xeb /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_sei.c.o
+                                        0x619 (size before relaxing)
+ .debug_str     0x00000000000029bb      0x4aa /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+                                       0x123f (size before relaxing)
+ .debug_str     0x0000000000002e65     0x1382 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+                                       0x1d7a (size before relaxing)
+ .debug_str     0x00000000000041e7      0x6cb /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+                                       0x184b (size before relaxing)
+ .debug_str     0x00000000000048b2      0x376 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+                                       0x1182 (size before relaxing)
+
+.debug_loc      0x0000000000000000    0x4e76f
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000       0x39 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/gen/Sources/arstream2_error.c.o
+ .debug_loc     0x0000000000000039     0x6e59 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+ .debug_loc     0x0000000000006e92    0x158a3 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .debug_loc     0x000000000001c735      0xad5 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_sei.c.o
+ .debug_loc     0x000000000001d20a    0x1e44a /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+ .debug_loc     0x000000000003b654     0x9340 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+ .debug_loc     0x0000000000044994     0x8939 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+ .debug_loc     0x000000000004d2cd     0x14a2 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000     0xae10
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000       0x20 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/gen/Sources/arstream2_error.c.o
+ .debug_ranges  0x0000000000000020     0x1240 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+ .debug_ranges  0x0000000000001260     0x31f0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .debug_ranges  0x0000000000004450      0x210 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_sei.c.o
+ .debug_ranges  0x0000000000004660     0x3d40 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+ .debug_ranges  0x00000000000083a0     0x1660 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+ .debug_ranges  0x0000000000009a00     0x12c0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+ .debug_ranges  0x000000000000acc0      0x150 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+
+.debug_macro
+ *(.debug_macro)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(/home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARStream2/libarstream2.so elf64-x86-64)

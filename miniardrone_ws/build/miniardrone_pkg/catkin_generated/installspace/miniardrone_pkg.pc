@@ -1,0 +1,8 @@
+prefix=/home/dima/ROS_Projects/miniardrone_ws/install
+
+Name: miniardrone_pkg
+Description: Description of miniardrone_pkg
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/dima/ROS_Projects/miniardrone_ws/install/lib 
+Requires: 

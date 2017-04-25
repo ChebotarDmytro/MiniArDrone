@@ -1,0 +1,2 @@
+miniardrone_pkg
+-DCATKIN_DEVEL_PREFIX=/home/dima/ROS_Projects/miniardrone_ws/devel -DCMAKE_INSTALL_PREFIX=/home/dima/ROS_Projects/miniardrone_ws/install -G Unix Makefiles

@@ -1,0 +1,23 @@
+{
+  "ARSDK3": 3.8163243010640144, 
+  "libARDiscovery": 1.0215078219771385, 
+  "libARDataTransfer": 2.020528495311737, 
+  "libARStream": 15.364294119179249, 
+  "Samples": 1.2135132551193237, 
+  "libARStream2": 1.0850510634481907, 
+  "arsdk_products": 0.9996484369039536, 
+  "ARSDKBuildUtils": 1.0906051695346832, 
+  "dragon_build": 1.0052260495722294, 
+  "libARNetworkAL": 1.0217306949198246, 
+  "mavlink.git": 7.096631892025471, 
+  "Alchemy": 5.434250500053167, 
+  "libARController": 1.8550652787089348, 
+  "libARSAL": 1.17772850766778, 
+  "ARSDKTools": 1.1014216877520084, 
+  "libARNetwork": 1.0119301825761795, 
+  "libARUpdater": 1.136099487543106, 
+  "libARMavlink": 1.0218233987689018, 
+  "libARCommands": 1.0461194962263107, 
+  "libARUtils": 1.0647277981042862, 
+  "libARMedia": 10.884778842329979
+}

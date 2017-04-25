@@ -1,0 +1,701 @@
+
+As-needed library included to satisfy reference by file (symbol)
+
+libarsal.so                   /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o (ARSAL_Socket_Create)
+libpthread.so.0               /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o (write@@GLIBC_2.2.5)
+libc.so.6                     /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o (fflush@@GLIBC_2.2.5)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/crtbeginS.o
+ .text.unlikely
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/crtbeginS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/crtbeginS.o
+ .text          0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+ .data          0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+ .bss           0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+ .text.unlikely.ARNETWORKAL_Manager_InitWifiNetwork
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+ .text.unlikely.ARNETWORKAL_Manager_CancelWifiNetwork
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+ .text.unlikely.ARNETWORKAL_Manager_CloseWifiNetwork
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+ .text.unlikely.ARNETWORKAL_Manager_InitBLENetwork
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+ .text.unlikely.ARNETWORKAL_Manager_CancelBLENetwork
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+ .text.unlikely.ARNETWORKAL_Manager_CloseBLENetwork
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+ .text.unlikely.ARNETWORKAL_Manager_Delete
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+ .text.unlikely.ARNETWORKAL_Manager_New
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+ .text.unlikely.ARNETWORKAL_Manager_Unlock
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+ .text.unlikely.ARNETWORKAL_Manager_GetBandwidth
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+ .text.unlikely.ARNETWORKAL_Manager_BandwidthThread
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+ .text.unlikely.ARNETWORKAL_Manager_SetOnDisconnectCallback
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+ .text.unlikely.ARNETWORKAL_Manager_SetSendBufferSize
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+ .text.unlikely.ARNETWORKAL_Manager_SetRecvBufferSize
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+ .text.unlikely.ARNETWORKAL_Manager_GetSendBufferSize
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+ .text.unlikely.ARNETWORKAL_Manager_GetRecvBufferSize
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+ .text.unlikely.ARNETWORKAL_Manager_EnableDataDump
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+ .text.unlikely.ARNETWORKAL_Manager_DumpData
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+ .text          0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+ .data          0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+ .bss           0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+ .text.unlikely.ARNETWORKAL_WifiNetwork_IsTooLongWithoutReceive
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+ .text.unlikely.ARNETWORKAL_WifiNetwork_New
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+ .text.unlikely.ARNETWORKAL_WifiNetwork_Signal
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+ .text.unlikely.ARNETWORKAL_WifiNetwork_GetBandwidth
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+ .text.unlikely.ARNETWORKAL_WifiNetwork_BandwidthThread
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+ .text.unlikely.ARNETWORKAL_WifiNetwork_Cancel
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+ .text.unlikely.ARNETWORKAL_WifiNetwork_Delete
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+ .text.unlikely.ARNETWORKAL_WifiNetwork_Connect
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+ .text.unlikely.ARNETWORKAL_WifiNetwork_Bind
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+ .text.unlikely.ARNETWORKAL_WifiNetwork_PushFrame
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+ .text.unlikely.ARNETWORKAL_WifiNetwork_PopFrame
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+ .text.unlikely.ARNETWORKAL_WifiNetwork_Send
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+ .text.unlikely.ARNETWORKAL_WifiNetwork_Receive
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+ .text.unlikely.ARNETWORKAL_WifiNetwork_SetOnDisconnectCallback
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+ .text.unlikely.ARNETWORKAL_WifiNetwork_GetSendBufferSize
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+ .text.unlikely.ARNETWORKAL_WifiNetwork_SetSendBufferSize
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+ .text.unlikely.ARNETWORKAL_WifiNetwork_GetRecvBufferSize
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+ .text.unlikely.ARNETWORKAL_WifiNetwork_SetRecvBufferSize
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+ .text          0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/gen/Sources/ARNETWORKAL_Error.c.o
+ .data          0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/gen/Sources/ARNETWORKAL_Error.c.o
+ .bss           0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/gen/Sources/ARNETWORKAL_Error.c.o
+ .text.unlikely.ARNETWORKAL_Error_ToString
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/gen/Sources/ARNETWORKAL_Error.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/gen/Sources/ARNETWORKAL_Error.c.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/crtendS.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/crtendS.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/crtendS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/crtendS.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/5/crtbeginS.o
+LOAD /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+LOAD /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+LOAD /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/gen/Sources/ARNETWORKAL_Error.c.o
+LOAD /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/staging/usr/lib/libarsal.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/librt.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/5/libstdc++.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/libm.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libm.so.6
+LOAD /usr/lib/x86_64-linux-gnu/libmvec_nonshared.a
+LOAD /lib/x86_64-linux-gnu/libmvec.so.1
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/5/libgcc_s.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/libpthread.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libpthread.so.0
+LOAD /usr/lib/x86_64-linux-gnu/libpthread_nonshared.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/libc.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libc.so.6
+LOAD /usr/lib/x86_64-linux-gnu/libc_nonshared.a
+LOAD /lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/5/libgcc_s.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/5/crtendS.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
+                0x00000000000001c8                . = (0x0 + SIZEOF_HEADERS)
+
+.note.gnu.build-id
+                0x00000000000001c8       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x00000000000001c8       0x24 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+
+.hash
+ *(.hash)
+
+.gnu.hash       0x00000000000001f0      0x15c
+ *(.gnu.hash)
+ .gnu.hash      0x00000000000001f0      0x15c /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+
+.dynsym         0x0000000000000350      0x888
+ *(.dynsym)
+ .dynsym        0x0000000000000350      0x888 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+
+.dynstr         0x0000000000000bd8      0x82a
+ *(.dynstr)
+ .dynstr        0x0000000000000bd8      0x82a /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version    0x0000000000001402       0xb6
+ *(.gnu.version)
+ .gnu.version   0x0000000000001402       0xb6 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version_d  0x00000000000014b8        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x00000000000014b8        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version_r  0x00000000000014b8       0x80
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x00000000000014b8       0x80 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+
+.rela.dyn       0x0000000000001538      0x1e0
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ .rela.text     0x0000000000001538        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ .rela.data.rel.local
+                0x0000000000001538       0x18 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ .rela.got      0x0000000000001550      0x198 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ *(.rela.ldata .rela.ldata.* .rela.gnu.linkonce.l.*)
+ *(.rela.lbss .rela.lbss.* .rela.gnu.linkonce.lb.*)
+ *(.rela.lrodata .rela.lrodata.* .rela.gnu.linkonce.lr.*)
+ *(.rela.ifunc)
+ .rela.ifunc    0x00000000000016e8        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ .rela.fini_array
+                0x00000000000016e8       0x18 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ .rela.init_array
+                0x0000000000001700       0x18 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+
+.rela.plt       0x0000000000001718      0x4b0
+ *(.rela.plt)
+ .rela.plt      0x0000000000001718      0x4b0 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ *(.rela.iplt)
+
+.init           0x0000000000001bc8       0x1a
+ *(SORT(.init))
+ .init          0x0000000000001bc8       0x15 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+                0x0000000000001bc8                _init
+ .init          0x0000000000001bdd        0x5 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
+
+.plt            0x0000000000001bf0      0x330
+ *(.plt)
+ .plt           0x0000000000001bf0      0x330 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ *(.iplt)
+
+.plt.got        0x0000000000001f20       0x20
+ *(.plt.got)
+ .plt.got       0x0000000000001f20       0x20 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+
+.plt.bnd
+ *(.plt.bnd)
+
+.text           0x0000000000001f40     0x27f8
+ *(.text.unlikely .text.*_unlikely .text.unlikely.*)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x0000000000001f40      0x100 /usr/lib/gcc/x86_64-linux-gnu/5/crtbeginS.o
+ .text.ARNETWORKAL_Manager_InitWifiNetwork
+                0x0000000000002040      0x126 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+                0x0000000000002040                ARNETWORKAL_Manager_InitWifiNetwork
+ *fill*         0x0000000000002166        0xa 
+ .text.ARNETWORKAL_Manager_CancelWifiNetwork
+                0x0000000000002170       0x16 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+                0x0000000000002170                ARNETWORKAL_Manager_CancelWifiNetwork
+ *fill*         0x0000000000002186        0xa 
+ .text.ARNETWORKAL_Manager_CloseWifiNetwork
+                0x0000000000002190       0x16 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+                0x0000000000002190                ARNETWORKAL_Manager_CloseWifiNetwork
+ *fill*         0x00000000000021a6        0xa 
+ .text.ARNETWORKAL_Manager_InitBLENetwork
+                0x00000000000021b0        0x6 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+                0x00000000000021b0                ARNETWORKAL_Manager_InitBLENetwork
+ *fill*         0x00000000000021b6        0xa 
+ .text.ARNETWORKAL_Manager_CancelBLENetwork
+                0x00000000000021c0        0x6 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+                0x00000000000021c0                ARNETWORKAL_Manager_CancelBLENetwork
+ *fill*         0x00000000000021c6        0xa 
+ .text.ARNETWORKAL_Manager_CloseBLENetwork
+                0x00000000000021d0        0x6 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+                0x00000000000021d0                ARNETWORKAL_Manager_CloseBLENetwork
+ *fill*         0x00000000000021d6        0xa 
+ .text.ARNETWORKAL_Manager_Delete
+                0x00000000000021e0       0x53 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+                0x00000000000021e0                ARNETWORKAL_Manager_Delete
+ *fill*         0x0000000000002233        0xd 
+ .text.ARNETWORKAL_Manager_New
+                0x0000000000002240      0x10e /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+                0x0000000000002240                ARNETWORKAL_Manager_New
+ *fill*         0x000000000000234e        0x2 
+ .text.ARNETWORKAL_Manager_Unlock
+                0x0000000000002350       0x1c /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+                0x0000000000002350                ARNETWORKAL_Manager_Unlock
+ *fill*         0x000000000000236c        0x4 
+ .text.ARNETWORKAL_Manager_GetBandwidth
+                0x0000000000002370       0x1c /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+                0x0000000000002370                ARNETWORKAL_Manager_GetBandwidth
+ *fill*         0x000000000000238c        0x4 
+ .text.ARNETWORKAL_Manager_BandwidthThread
+                0x0000000000002390       0x13 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+                0x0000000000002390                ARNETWORKAL_Manager_BandwidthThread
+ *fill*         0x00000000000023a3        0xd 
+ .text.ARNETWORKAL_Manager_SetOnDisconnectCallback
+                0x00000000000023b0       0x1c /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+                0x00000000000023b0                ARNETWORKAL_Manager_SetOnDisconnectCallback
+ *fill*         0x00000000000023cc        0x4 
+ .text.ARNETWORKAL_Manager_SetSendBufferSize
+                0x00000000000023d0       0x1c /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+                0x00000000000023d0                ARNETWORKAL_Manager_SetSendBufferSize
+ *fill*         0x00000000000023ec        0x4 
+ .text.ARNETWORKAL_Manager_SetRecvBufferSize
+                0x00000000000023f0       0x1c /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+                0x00000000000023f0                ARNETWORKAL_Manager_SetRecvBufferSize
+ *fill*         0x000000000000240c        0x4 
+ .text.ARNETWORKAL_Manager_GetSendBufferSize
+                0x0000000000002410       0x1c /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+                0x0000000000002410                ARNETWORKAL_Manager_GetSendBufferSize
+ *fill*         0x000000000000242c        0x4 
+ .text.ARNETWORKAL_Manager_GetRecvBufferSize
+                0x0000000000002430       0x1c /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+                0x0000000000002430                ARNETWORKAL_Manager_GetRecvBufferSize
+ *fill*         0x000000000000244c        0x4 
+ .text.ARNETWORKAL_Manager_EnableDataDump
+                0x0000000000002450      0x2b2 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+                0x0000000000002450                ARNETWORKAL_Manager_EnableDataDump
+ *fill*         0x0000000000002702        0xe 
+ .text.ARNETWORKAL_Manager_DumpData
+                0x0000000000002710       0x36 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+                0x0000000000002710                ARNETWORKAL_Manager_DumpData
+ *fill*         0x0000000000002746        0xa 
+ .text.ARNETWORKAL_WifiNetwork_IsTooLongWithoutReceive
+                0x0000000000002750      0x111 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+ *fill*         0x0000000000002861        0xf 
+ .text.ARNETWORKAL_WifiNetwork_New
+                0x0000000000002870      0x1c6 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+                0x0000000000002870                ARNETWORKAL_WifiNetwork_New
+ *fill*         0x0000000000002a36        0xa 
+ .text.ARNETWORKAL_WifiNetwork_Signal
+                0x0000000000002a40       0x63 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+                0x0000000000002a40                ARNETWORKAL_WifiNetwork_Signal
+ *fill*         0x0000000000002aa3        0xd 
+ .text.ARNETWORKAL_WifiNetwork_GetBandwidth
+                0x0000000000002ab0       0x89 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+                0x0000000000002ab0                ARNETWORKAL_WifiNetwork_GetBandwidth
+ *fill*         0x0000000000002b39        0x7 
+ .text.ARNETWORKAL_WifiNetwork_BandwidthThread
+                0x0000000000002b40      0x169 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+                0x0000000000002b40                ARNETWORKAL_WifiNetwork_BandwidthThread
+ *fill*         0x0000000000002ca9        0x7 
+ .text.ARNETWORKAL_WifiNetwork_Cancel
+                0x0000000000002cb0        0xc /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+                0x0000000000002cb0                ARNETWORKAL_WifiNetwork_Cancel
+ *fill*         0x0000000000002cbc        0x4 
+ .text.ARNETWORKAL_WifiNetwork_Delete
+                0x0000000000002cc0      0x11a /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+                0x0000000000002cc0                ARNETWORKAL_WifiNetwork_Delete
+ *fill*         0x0000000000002dda        0x6 
+ .text.ARNETWORKAL_WifiNetwork_Connect
+                0x0000000000002de0      0x204 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+                0x0000000000002de0                ARNETWORKAL_WifiNetwork_Connect
+ *fill*         0x0000000000002fe4        0xc 
+ .text.ARNETWORKAL_WifiNetwork_Bind
+                0x0000000000002ff0      0x203 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+                0x0000000000002ff0                ARNETWORKAL_WifiNetwork_Bind
+ *fill*         0x00000000000031f3        0xd 
+ .text.ARNETWORKAL_WifiNetwork_PushFrame
+                0x0000000000003200      0x32b /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+                0x0000000000003200                ARNETWORKAL_WifiNetwork_PushFrame
+ *fill*         0x000000000000352b        0x5 
+ .text.ARNETWORKAL_WifiNetwork_PopFrame
+                0x0000000000003530      0x103 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+                0x0000000000003530                ARNETWORKAL_WifiNetwork_PopFrame
+ *fill*         0x0000000000003633        0xd 
+ .text.ARNETWORKAL_WifiNetwork_Send
+                0x0000000000003640      0x239 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+                0x0000000000003640                ARNETWORKAL_WifiNetwork_Send
+ *fill*         0x0000000000003879        0x7 
+ .text.ARNETWORKAL_WifiNetwork_Receive
+                0x0000000000003880      0x731 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+                0x0000000000003880                ARNETWORKAL_WifiNetwork_Receive
+ *fill*         0x0000000000003fb1        0xf 
+ .text.ARNETWORKAL_WifiNetwork_SetOnDisconnectCallback
+                0x0000000000003fc0       0x3e /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+                0x0000000000003fc0                ARNETWORKAL_WifiNetwork_SetOnDisconnectCallback
+ *fill*         0x0000000000003ffe        0x2 
+ .text.ARNETWORKAL_WifiNetwork_GetSendBufferSize
+                0x0000000000004000       0x84 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+                0x0000000000004000                ARNETWORKAL_WifiNetwork_GetSendBufferSize
+ *fill*         0x0000000000004084        0xc 
+ .text.ARNETWORKAL_WifiNetwork_SetSendBufferSize
+                0x0000000000004090      0x21c /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+                0x0000000000004090                ARNETWORKAL_WifiNetwork_SetSendBufferSize
+ *fill*         0x00000000000042ac        0x4 
+ .text.ARNETWORKAL_WifiNetwork_GetRecvBufferSize
+                0x00000000000042b0       0x84 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+                0x00000000000042b0                ARNETWORKAL_WifiNetwork_GetRecvBufferSize
+ *fill*         0x0000000000004334        0xc 
+ .text.ARNETWORKAL_WifiNetwork_SetRecvBufferSize
+                0x0000000000004340      0x21c /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+                0x0000000000004340                ARNETWORKAL_WifiNetwork_SetRecvBufferSize
+ *fill*         0x000000000000455c        0x4 
+ .text.ARNETWORKAL_Error_ToString
+                0x0000000000004560      0x1d8 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/gen/Sources/ARNETWORKAL_Error.c.o
+                0x0000000000004560                ARNETWORKAL_Error_ToString
+ *(.gnu.warning)
+
+.fini           0x0000000000004738        0x9
+ *(SORT(.fini))
+ .fini          0x0000000000004738        0x4 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+                0x0000000000004738                _fini
+ .fini          0x000000000000473c        0x5 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
+                [!provide]                        PROVIDE (__etext, .)
+                [!provide]                        PROVIDE (_etext, .)
+                [!provide]                        PROVIDE (etext, .)
+
+.rodata         0x0000000000004760      0xb10
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.str1.1
+                0x0000000000004760       0x36 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+ *fill*         0x0000000000004796        0x2 
+ .rodata.str1.8
+                0x0000000000004798       0xe2 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+ *fill*         0x000000000000487a        0x6 
+ .rodata        0x0000000000004880       0x48 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+ .rodata.str1.1
+                0x00000000000048c8       0x1a /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+                                         0x23 (size before relaxing)
+ *fill*         0x00000000000048e2        0x6 
+ .rodata.str1.8
+                0x00000000000048e8      0x4ec /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+ *fill*         0x0000000000004dd4        0xc 
+ .rodata        0x0000000000004de0      0x1c0 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+ .rodata.str1.1
+                0x0000000000004fa0      0x14f /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/gen/Sources/ARNETWORKAL_Error.c.o
+ *fill*         0x00000000000050ef        0x1 
+ .rodata.str1.8
+                0x00000000000050f0      0x180 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/gen/Sources/ARNETWORKAL_Error.c.o
+                                        0x17d (size before relaxing)
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr   0x0000000000005270      0x13c
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x0000000000005270      0x13c /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+                0x0000000000005270                __GNU_EH_FRAME_HDR
+ *(.eh_frame_entry .eh_frame_entry.*)
+
+.eh_frame       0x00000000000053b0      0x87c
+ *(.eh_frame)
+ .eh_frame      0x00000000000053b0       0x40 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ .eh_frame      0x00000000000053f0      0x2a8 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+                                        0x280 (size before relaxing)
+ .eh_frame      0x0000000000005698      0x578 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+                                        0x560 (size before relaxing)
+ .eh_frame      0x0000000000005c10       0x18 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/gen/Sources/ARNETWORKAL_Error.c.o
+                                         0x30 (size before relaxing)
+ .eh_frame      0x0000000000005c28        0x4 /usr/lib/gcc/x86_64-linux-gnu/5/crtendS.o
+ *(.eh_frame.*)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.gnu_extab
+ *(.gnu_extab*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+                0x0000000000205d70                . = DATA_SEGMENT_ALIGN (0x200000, 0x1000)
+
+.eh_frame
+ *(.eh_frame)
+ *(.eh_frame.*)
+
+.gnu_extab
+ *(.gnu_extab)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array
+ *(.preinit_array)
+
+.init_array     0x0000000000205d70        0x8
+ *(SORT(.init_array.*) SORT(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
+ .init_array    0x0000000000205d70        0x8 /usr/lib/gcc/x86_64-linux-gnu/5/crtbeginS.o
+
+.fini_array     0x0000000000205d78        0x8
+ *(SORT(.fini_array.*) SORT(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
+ .fini_array    0x0000000000205d78        0x8 /usr/lib/gcc/x86_64-linux-gnu/5/crtbeginS.o
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+
+.jcr            0x0000000000205d80        0x8
+ *(.jcr)
+ .jcr           0x0000000000205d80        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/crtbeginS.o
+ .jcr           0x0000000000205d80        0x8 /usr/lib/gcc/x86_64-linux-gnu/5/crtendS.o
+
+.data.rel.ro
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+
+.dynamic        0x0000000000205d88      0x1f0
+ *(.dynamic)
+ .dynamic       0x0000000000205d88      0x1f0 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+                0x0000000000205d88                _DYNAMIC
+
+.got            0x0000000000205f78       0x88
+ *(.got)
+ .got           0x0000000000205f78       0x88 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ *(.igot)
+                0x0000000000206fe8                . = DATA_SEGMENT_RELRO_END (., (SIZEOF (.got.plt) >= 0x18)?0x18:0x0)
+
+.got.plt        0x0000000000206000      0x1a8
+ *(.got.plt)
+ .got.plt       0x0000000000206000      0x1a8 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+                0x0000000000206000                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+
+.data           0x00000000002061a8        0x8
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.rel.local
+                0x00000000002061a8        0x8 /usr/lib/gcc/x86_64-linux-gnu/5/crtbeginS.o
+                0x00000000002061a8                __dso_handle
+
+.tm_clone_table
+                0x00000000002061b0        0x0
+ .tm_clone_table
+                0x00000000002061b0        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/crtbeginS.o
+ .tm_clone_table
+                0x00000000002061b0        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/crtendS.o
+
+.data1
+ *(.data1)
+                0x00000000002061b0                _edata = .
+                [!provide]                        PROVIDE (edata, .)
+                0x00000000002061b0                . = .
+                0x00000000002061b0                __bss_start = .
+
+.bss            0x00000000002061b0        0x8
+ *(.dynbss)
+ .dynbss        0x00000000002061b0        0x0 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x00000000002061b0        0x1 /usr/lib/gcc/x86_64-linux-gnu/5/crtbeginS.o
+ *(COMMON)
+                0x00000000002061b8                . = ALIGN ((. != 0x0)?0x8:0x1)
+ *fill*         0x00000000002061b1        0x7 
+
+.lbss
+ *(.dynlbss)
+ *(.lbss .lbss.* .gnu.linkonce.lb.*)
+ *(LARGE_COMMON)
+                0x00000000002061b8                . = ALIGN (0x8)
+                0x00000000002061b8                . = SEGMENT_START ("ldata-segment", .)
+
+.lrodata
+ *(.lrodata .lrodata.* .gnu.linkonce.lr.*)
+
+.ldata          0x00000000006061b8        0x0
+ *(.ldata .ldata.* .gnu.linkonce.l.*)
+                0x00000000006061b8                . = ALIGN ((. != 0x0)?0x8:0x1)
+                0x00000000006061b8                . = ALIGN (0x8)
+                0x00000000006061b8                _end = .
+                [!provide]                        PROVIDE (end, .)
+                0x00000000006061b8                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x34
+ *(.comment)
+ .comment       0x0000000000000000       0x34 /usr/lib/gcc/x86_64-linux-gnu/5/crtbeginS.o
+                                         0x35 (size before relaxing)
+ .comment       0x0000000000000034       0x35 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+ .comment       0x0000000000000034       0x35 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+ .comment       0x0000000000000034       0x35 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/gen/Sources/ARNETWORKAL_Error.c.o
+ .comment       0x0000000000000034       0x35 /usr/lib/gcc/x86_64-linux-gnu/5/crtendS.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x2a0
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000      0x130 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+ .debug_aranges
+                0x0000000000000130      0x140 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+ .debug_aranges
+                0x0000000000000270       0x30 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/gen/Sources/ARNETWORKAL_Error.c.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0x4fd6
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000     0x1704 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+ .debug_info    0x0000000000001704     0x37b4 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+ .debug_info    0x0000000000004eb8      0x11e /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/gen/Sources/ARNETWORKAL_Error.c.o
+
+.debug_abbrev   0x0000000000000000      0x81a
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x37a /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+ .debug_abbrev  0x000000000000037a      0x414 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+ .debug_abbrev  0x000000000000078e       0x8c /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/gen/Sources/ARNETWORKAL_Error.c.o
+
+.debug_line     0x0000000000000000      0xf4c
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000      0x4c6 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+ .debug_line    0x00000000000004c6      0x919 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+ .debug_line    0x0000000000000ddf      0x16d /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/gen/Sources/ARNETWORKAL_Error.c.o
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000     0x19d1
+ *(.debug_str)
+ .debug_str     0x0000000000000000     0x107c /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+                                       0x1116 (size before relaxing)
+ .debug_str     0x000000000000107c      0x91d /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+                                       0x15b4 (size before relaxing)
+ .debug_str     0x0000000000001999       0x38 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/gen/Sources/ARNETWORKAL_Error.c.o
+                                        0x42b (size before relaxing)
+
+.debug_loc      0x0000000000000000     0x3604
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000     0x1037 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+ .debug_loc     0x0000000000001037     0x25cd /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000      0x8c0
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000      0x190 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+ .debug_ranges  0x0000000000000190      0x710 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+ .debug_ranges  0x00000000000008a0       0x20 /home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/obj/gen/Sources/ARNETWORKAL_Error.c.o
+
+.debug_macro
+ *(.debug_macro)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(/home/dima/ROS_Projects/miniardrone_ws/devel/arsdk/out/arsdk-native/build/libARNetworkAL/libarnetworkal.so elf64-x86-64)

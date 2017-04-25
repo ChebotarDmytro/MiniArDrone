@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Workspace>
+    <WatchDirectories>
+        <Directory>src</Directory>
+    </WatchDirectories>
+    <IncludePaths>
+        <Directory>/usr/src/gtest</Directory>
+        <Directory>/usr/src/gtest/include</Directory>
+        <Directory>/opt/ros/kinetic/include</Directory>
+        <Directory>/home/dima/ROS_Projects/miniardrone_ws/devel/bluez/include</Directory>
+        <Directory>/home/dima/WORKING_DIRECTORY/ArDroneSDK_3.0/out/arsdk-native/staging/usr/include</Directory>
+    </IncludePaths>
+</Workspace>
